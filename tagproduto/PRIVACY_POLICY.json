@@ -1,0 +1,86 @@
+{
+  "title": "Política de Privacidade",
+  "last_updated": "23 de Maio de 2026",
+  "app_name": "EtiquetasFácil",
+  "developer": "Class A Tecnologia",
+  "contact_email": "classatecnologia@gmail.com",
+  "introduction": "O desenvolvedor de EtiquetasFácil (doravante referido como \"nós\", \"nosso\" ou \"aplicativo\") construiu o aplicativo EtiquetasFácil como um aplicativo Comercial/Freemium. Este SERVIÇO é fornecido por nós e deve ser usado no estado em que se encontra. Esta página é usada para informar os visitantes sobre nossas políticas relativas à coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço. Ao usar nosso Serviço, você concorda com a coleta e uso de informações em relação a esta política.",
+  "sections": [
+    {
+      "id": "1",
+      "title": "Coleta e Uso de Informações",
+      "content": "Para uma melhor experiência ao usar nosso Serviço, podemos exigir que você nos forneça certas informações pessoalmente identificáveis. As informações que solicitamos serão retidas no seu dispositivo ou em nossos servidores para o funcionamento do app e não são vendidas a terceiros.",
+      "items": [
+        "Câmera e Fotos: Utilizamos a câmera e a galeria para leitura de códigos de barras, captura e seleção de imagens essenciais para a geração de etiquetas (tags).",
+        "Armazenamento e Arquivos: Utilizamos o acesso a arquivos para salvar, exportar e compartilhar as etiquetas e listas geradas em formatos como PDF, CSV ou Excel.",
+        "Autenticação de Usuário: Coletamos seu e-mail e nome básicos ao fazer login utilizando serviços de autenticação (Google Sign-In, Apple Sign-In ou E-mail/Senha)."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Serviços de Terceiros",
+      "content": "O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo, rastrear o uso do aplicativo, fornecer suporte técnico e exibir anúncios.",
+      "third_parties": [
+        {
+          "name": "Google Play Services",
+          "url": "https://policies.google.com/privacy"
+        },
+        {
+          "name": "Google AdMob",
+          "url": "https://support.google.com/admob/answer/6128543"
+        },
+        {
+          "name": "Pangle (Mediation)",
+          "url": "https://www.pangleglobal.com/privacy"
+        },
+        {
+          "name": "Firebase Core, Auth e Firestore",
+          "url": "https://firebase.google.com/support/privacy"
+        },
+        {
+          "name": "Firebase Analytics e Crashlytics",
+          "url": "https://firebase.google.com/support/privacy"
+        },
+        {
+          "name": "RevenueCat",
+          "url": "https://www.revenuecat.com/privacy"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Dados de Log e Analytics",
+      "content": "Sempre que você usar nosso Serviço, no caso de um erro no aplicativo, coletamos dados (Log Data) através do Firebase Crashlytics. Esses dados podem incluir IP, versão do sistema operacional e hora do erro."
+    },
+    {
+      "id": "4",
+      "title": "Assinaturas e Compras no Aplicativo",
+      "content": "O processamento de pagamentos é feito pelas lojas oficiais (App Store e Google Play). O RevenueCat é usado apenas para verificar e conceder acesso aos recursos premium, não armazenamos dados de cartão de crédito."
+    },
+    {
+      "id": "5",
+      "title": "Segurança dos Dados",
+      "content": "Valorizamos sua confiança, mas lembramos que nenhum método de armazenamento ou transmissão eletrônica é 100% seguro."
+    },
+    {
+      "id": "6",
+      "title": "Exclusão de Dados (Direito do Usuário)",
+      "content": "Você tem o direito de solicitar a exclusão de seus dados e conta diretamente pelas configurações do app ou enviando um e-mail para o suporte. Os dados serão removidos em até 30 dias."
+    },
+    {
+      "id": "7",
+      "title": "Privacidade de Crianças",
+      "content": "Não coletamos intencionalmente informações de crianças menores de 13 anos. Se descobrirmos tal ocorrência, as informações serão excluídas."
+    },
+    {
+      "id": "8",
+      "title": "Alterações a Esta Política",
+      "content": "Podemos atualizar esta política. Recomendamos revisar periodicamente."
+    }
+  ],
+  "contact": {
+    "email": "classatecnologia@gmail.com",
+    "company": "Class A Tecnologia"
+  },
+  "legal_compliance": "Esta política foi elaborada com foco na adequação às diretrizes da LGPD (Brasil), GDPR (Europa) e exigências da Google Play Store / Apple App Store."
+}

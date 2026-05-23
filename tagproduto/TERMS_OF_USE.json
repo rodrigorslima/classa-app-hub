@@ -1,0 +1,44 @@
+{
+  "title": "Termos de Uso",
+  "last_updated": "23 de Maio de 2026",
+  "app_name": "EtiquetasFácil",
+  "developer": "Class A Tecnologia",
+  "contact_email": "classatecnologia@gmail.com",
+  "introduction": "Bem-vindo ao EtiquetasFácil. Estes Termos de Uso regem o seu acesso e uso do aplicativo móvel fornecido pela Class A Tecnologia. Ao baixar ou usar o aplicativo, estes termos se aplicarão automaticamente a você – certifique-se de lê-los com atenção antes de usar o aplicativo.",
+  "sections": [
+    {
+      "id": "1",
+      "title": "Uso do Aplicativo",
+      "content": "Você tem permissão para baixar, instalar e usar o aplicativo estritamente para seus fins comerciais ou pessoais. Não é permitido copiar, modificar, extrair código-fonte ou usar para fins ilegais. Todos os direitos de propriedade intelectual pertencem à Class A Tecnologia."
+    },
+    {
+      "id": "2",
+      "title": "Planos, Assinaturas e Pagamentos (RevenueCat)",
+      "content": "Todas as transações financeiras são gerenciadas pelas lojas de aplicativos oficiais (Google Play Store e Apple App Store) utilizando a infraestrutura do RevenueCat. Nós não temos acesso e não armazenamos suas informações de cartão de crédito. Assinaturas são renovadas automaticamente a menos que canceladas com 24h de antecedência."
+    },
+    {
+      "id": "3",
+      "title": "Serviços de Terceiros",
+      "content": "O aplicativo utiliza serviços de terceiros (Google Play Services, AdMob, Firebase e Crashlytics) que possuem seus próprios Termos e Condições."
+    },
+    {
+      "id": "4",
+      "title": "Isenção de Responsabilidade",
+      "content": "A Class A Tecnologia não garante que o serviço será ininterrupto ou livre de erros. Os documentos gerados (arquivos PDF, CSV, Excel e Etiquetas) são de responsabilidade do usuário."
+    },
+    {
+      "id": "5",
+      "title": "Limitação de Responsabilidade",
+      "content": "A Class A Tecnologia não aceitará nenhuma responsabilidade por qualquer perda resultante da confiança neste aplicativo ou por perda de dados."
+    },
+    {
+      "id": "6",
+      "title": "Alterações nos Termos",
+      "content": "Podemos atualizar nossos Termos de Uso de tempos em tempos. Recomendamos revisar esta página periodicamente."
+    }
+  ],
+  "contact": {
+    "email": "classatecnologia@gmail.com",
+    "company": "Class A Tecnologia"
+  }
+}

@@ -73,57 +73,110 @@
   ],
   "privacyPolicy": [
     {
-      "title": "1. Informações Gerais",
+      "title": "Introdução",
       "paragraphs": [
-        "A sua privacidade é de extrema importância para nós. Esta Política de Privacidade descreve como o aplicativo Tag Produto, desenvolvido pela ClassA, coleta, usa e compartilha suas informações ao utilizar nossos serviços.",
-        "Ao utilizar nosso aplicativo, você concorda com a coleta e o uso de informações de acordo com esta política."
+        "O desenvolvedor de EtiquetasFácil (doravante referido como \"nós\", \"nosso\" ou \"aplicativo\") construiu o aplicativo EtiquetasFácil como um aplicativo Comercial/Freemium. Este SERVIÇO é fornecido por nós e deve ser usado no estado em que se encontra. Esta página é usada para informar os visitantes sobre nossas políticas relativas à coleta, uso e divulgação de Informações Pessoais, caso alguém decida usar nosso Serviço. Ao usar nosso Serviço, você concorda com a coleta e uso de informações em relação a esta política."
       ]
     },
     {
-      "title": "2. Armazenamento Local de Dados",
+      "title": "1. Coleta e Uso de Informações",
       "paragraphs": [
-        "Todas as etiquetas criadas, templates editados e configurações do aplicativo são salvos única e exclusivamente no armazenamento interno do seu dispositivo móvel.",
-        "Não enviamos seus dados comerciais ou de produtos para servidores externos sem o seu consentimento explícito."
+        "Para uma melhor experiência ao usar nosso Serviço, podemos exigir que você nos forneça certas informações pessoalmente identificáveis. As informações que solicitamos serão retidas no seu dispositivo ou em nossos servidores para o funcionamento do app e não são vendidas a terceiros.",
+        "• Câmera e Fotos: Utilizamos a câmera e a galeria para leitura de códigos de barras, captura e seleção de imagens essenciais para a geração de etiquetas (tags).",
+        "• Armazenamento e Arquivos: Utilizamos o acesso a arquivos para salvar, exportar e compartilhar as etiquetas e listas geradas em formatos como PDF, CSV ou Excel.",
+        "• Autenticação de Usuário: Coletamos seu e-mail e nome básicos ao fazer login utilizando serviços de autenticação (Google Sign-In, Apple Sign-In ou E-mail/Senha)."
       ]
     },
     {
-      "title": "3. Serviços de Terceiros e Anúncios",
+      "title": "2. Serviços de Terceiros",
       "paragraphs": [
-        "O aplicativo integra serviços de terceiros que podem coletar informações de forma anônima para melhorar o serviço. Isso inclui o Google Play Services e AdMob/Google AdSense para exibição de anúncios."
+        "O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo, rastrear o uso do aplicativo, fornecer suporte técnico e exibir anúncios.",
+        "• Google Play Services: https://policies.google.com/privacy",
+        "• Google AdMob: https://support.google.com/admob/answer/6128543",
+        "• Pangle (Mediation): https://www.pangleglobal.com/privacy",
+        "• Firebase Core, Auth e Firestore: https://firebase.google.com/support/privacy",
+        "• Firebase Analytics e Crashlytics: https://firebase.google.com/support/privacy",
+        "• RevenueCat: https://www.revenuecat.com/privacy"
       ]
     },
     {
-      "title": "4. Contato para Suporte",
+      "title": "3. Dados de Log e Analytics",
       "paragraphs": [
-        "Caso tenha dúvidas sobre esta política, entre em contato através do e-mail de suporte da nossa desenvolvedora: suporte.classa@gmail.com."
+        "Sempre que você usar nosso Serviço, no caso de um erro no aplicativo, coletamos dados (Log Data) através do Firebase Crashlytics. Esses dados podem incluir IP, versão do sistema operacional e hora do erro."
+      ]
+    },
+    {
+      "title": "4. Assinaturas e Compras no Aplicativo",
+      "paragraphs": [
+        "O processamento de pagamentos é feito pelas lojas oficiais (App Store e Google Play). O RevenueCat é usado apenas para verificar e conceder acesso aos recursos premium, não armazenamos dados de cartão de crédito."
+      ]
+    },
+    {
+      "title": "5. Segurança dos Dados",
+      "paragraphs": [
+        "Valorizamos sua confiança, mas lembramos que nenhum método de armazenamento ou transmissão eletrônica é 100% seguro."
+      ]
+    },
+    {
+      "title": "6. Exclusão de Dados (Direito do Usuário)",
+      "paragraphs": [
+        "Você tem o direito de solicitar a exclusão de seus dados e conta diretamente pelas configurações do app ou enviando um e-mail para o suporte. Os dados serão removidos em até 30 dias."
+      ]
+    },
+    {
+      "title": "7. Privacidade de Crianças",
+      "paragraphs": [
+        "Não coletamos intencionalmente informações de crianças menores de 13 anos. Se descobrirmos tal ocorrência, as informações serão excluídas."
+      ]
+    },
+    {
+      "title": "8. Alterações a Esta Política",
+      "paragraphs": [
+        "Podemos atualizar esta política. Recomendamos revisar periodicamente."
       ]
     }
   ],
   "termsOfUse": [
     {
-      "title": "1. Aceitação dos Termos",
+      "title": "Introdução",
       "paragraphs": [
-        "Ao baixar e utilizar o aplicativo Tag Produto, você concorda com estes termos de uso. Se você não concordar com estes termos, não utilize o aplicativo.",
-        "Estes termos aplicam-se a todos os usuários, visitantes e outros que acessam ou usam o aplicativo."
+        "Bem-vindo ao EtiquetasFácil. Estes Termos de Uso regem o seu acesso e uso do aplicativo móvel fornecido pela Class A Tecnologia. Ao baixar ou usar o aplicativo, estes termos se aplicarão automaticamente a você – certifique-se de lê-los com atenção antes de usar o aplicativo."
       ]
     },
     {
-      "title": "2. Licença de Uso",
+      "title": "1. Uso do Aplicativo",
       "paragraphs": [
-        "Concedemos a você uma licença limitada, não-exclusiva e intransferível para utilizar o aplicativo em seu celular pessoal para criação de etiquetas comerciais.",
-        "Sob esta licença, você não pode: descompilar, fazer engenharia reversa do aplicativo ou tentar revender a ferramenta de edição de forma independente."
+        "Você tem permissão para baixar, instalar e usar o aplicativo estritamente para seus fins comerciais ou pessoais. Não é permitido copiar, modificar, extrair código-fonte ou usar para fins ilegais. Todos os direitos de propriedade intelectual pertencem à Class A Tecnologia."
       ]
     },
     {
-      "title": "3. Responsabilidade pelo Conteúdo",
+      "title": "2. Planos, Assinaturas e Pagamentos (RevenueCat)",
       "paragraphs": [
-        "Você é o único responsável legal pela veracidade dos preços e informações divulgados nas etiquetas geradas através do aplicativo. O aplicativo serve apenas como uma ferramenta de design gráfico."
+        "Todas as transações financeiras são gerenciadas pelas lojas de aplicativos oficiais (Google Play Store e Apple App Store) utilizando a infraestrutura do RevenueCat. Nós não temos acesso e não armazenamos suas informações de cartão de crédito. Assinaturas são renovadas automaticamente a menos que canceladas com 24h de antecedência."
       ]
     },
     {
-      "title": "4. Limitação de Responsabilidade",
+      "title": "3. Serviços de Terceiros",
       "paragraphs": [
-        "Em nenhum caso o desenvolvedor ou a ClassA serão responsáveis por quaisquer danos decorrentes do uso ou da incapacidade de usar os materiais criados no aplicativo Tag Produto."
+        "O aplicativo utiliza serviços de terceiros (Google Play Services, AdMob, Firebase e Crashlytics) que possuem seus próprios Termos e Condições."
+      ]
+    },
+    {
+      "title": "4. Isenção de Responsabilidade",
+      "paragraphs": [
+        "A Class A Tecnologia não garante que o serviço será ininterrupto ou livre de erros. Os documentos gerados (arquivos PDF, CSV, Excel e Etiquetas) são de responsabilidade do usuário."
+      ]
+    },
+    {
+      "title": "5. Limitação de Responsabilidade",
+      "paragraphs": [
+        "A Class A Tecnologia não aceitará nenhuma responsabilidade por qualquer perda resultante da confiança neste aplicativo ou por perda de dados."
+      ]
+    },
+    {
+      "title": "6. Alterações nos Termos",
+      "paragraphs": [
+        "Podemos atualizar nossos Termos de Uso de tempos em tempos. Recomendamos revisar esta página periodicamente."
       ]
     }
   ],

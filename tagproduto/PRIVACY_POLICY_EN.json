@@ -1,0 +1,86 @@
+{
+  "title": "Privacy Policy",
+  "last_updated": "May 23, 2026",
+  "app_name": "EtiquetasFácil",
+  "developer": "Class A Tecnologia",
+  "contact_email": "classatecnologia@gmail.com",
+  "introduction": "The developer of EtiquetasFácil (hereinafter referred to as \"we\", \"us\", or \"app\") built the EtiquetasFácil app as a Commercial/Freemium app. This SERVICE is provided by us and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. By using our Service, you agree to the collection and use of information in relation to this policy.",
+  "sections": [
+    {
+      "id": "1",
+      "title": "Information Collection and Use",
+      "content": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device or our servers for the operation of the app and is not sold to third parties.",
+      "items": [
+        "Camera and Photos: We use the camera and gallery for scanning barcodes, capturing, and selecting images essential for generating tags.",
+        "Storage and Files: We use file access to save, export, and share generated tags and lists in formats such as PDF, CSV, or Excel.",
+        "User Authentication: We collect your basic email and name when logging in using authentication services (Google Sign-In, Apple Sign-In, or Email/Password)."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Third-Party Services",
+      "content": "The app does use third-party services that may collect information used to identify you, track app usage, provide technical support, and display ads.",
+      "third_parties": [
+        {
+          "name": "Google Play Services",
+          "url": "https://policies.google.com/privacy"
+        },
+        {
+          "name": "Google AdMob",
+          "url": "https://support.google.com/admob/answer/6128543"
+        },
+        {
+          "name": "Pangle (Mediation)",
+          "url": "https://www.pangleglobal.com/privacy"
+        },
+        {
+          "name": "Firebase Core, Auth, and Firestore",
+          "url": "https://firebase.google.com/support/privacy"
+        },
+        {
+          "name": "Firebase Analytics and Crashlytics",
+          "url": "https://firebase.google.com/support/privacy"
+        },
+        {
+          "name": "RevenueCat",
+          "url": "https://www.revenuecat.com/privacy"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Log Data and Analytics",
+      "content": "Whenever you use our Service, in a case of an error in the app we collect data (Log Data) through Firebase Crashlytics. This data may include IP, OS version, and time of the error."
+    },
+    {
+      "id": "4",
+      "title": "In-App Subscriptions and Purchases",
+      "content": "Payment processing is handled entirely by official app stores (App Store and Google Play). RevenueCat is used only to verify and grant access to premium features; we do not store credit card data."
+    },
+    {
+      "id": "5",
+      "title": "Data Security",
+      "content": "We value your trust, but remember that no method of electronic storage or transmission is 100% secure."
+    },
+    {
+      "id": "6",
+      "title": "Data Deletion (User Right)",
+      "content": "You have the right to request the deletion of your data and account directly through the app settings or by emailing support. Data will be removed within 30 days."
+    },
+    {
+      "id": "7",
+      "title": "Children's Privacy",
+      "content": "We do not knowingly collect information from children under 13. If we discover such an occurrence, the information will be deleted."
+    },
+    {
+      "id": "8",
+      "title": "Changes to This Policy",
+      "content": "We may update this policy. We recommend reviewing it periodically."
+    }
+  ],
+  "contact": {
+    "email": "classatecnologia@gmail.com",
+    "company": "Class A Tecnologia"
+  },
+  "legal_compliance": "This policy was drafted focusing on compliance with LGPD (Brazil), GDPR (Europe), and Google Play Store / Apple App Store guidelines."
+}
