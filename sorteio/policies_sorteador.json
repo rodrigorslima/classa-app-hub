@@ -1,0 +1,239 @@
+{
+  "app_name": "Sorteador",
+  "developer": "Class A Tecnologia",
+  "contact_email": "classatecnologia@gmail.com",
+  "privacy_policy": {
+    "pt": {
+      "title": "Política de Privacidade",
+      "last_updated": "23 de Maio de 2026",
+      "introduction": "A Class A Tecnologia desenvolveu o aplicativo Sorteador como um aplicativo Comercial/Freemium. Este SERVIÇO é fornecido por nós e destina-se ao uso no estado em que se encontra. Esta página é usada para informar os visitantes sobre nossas políticas com relação à coleta, uso e divulgação de Informações Pessoais de quem decide usar nosso Serviço. Ao usar nosso Serviço, você concorda com a coleta e o uso de informações em relação a esta política.",
+      "sections": [
+        {
+          "id": "1",
+          "title": "Coleta e Uso de Informações",
+          "content": "Para uma melhor experiência durante o uso de nosso Serviço, podemos exigir que você nos forneça certas informações de identificação pessoal. As informações que solicitamos serão retidas em seu dispositivo ou em nossos servidores para o funcionamento do aplicativo e não são vendidas a terceiros.",
+          "items": [
+            "Armazenamento e Arquivos: Usamos o acesso a arquivos para salvar e exportar os resultados dos sorteios e listas geradas, quando necessário.",
+            "Autenticação de Usuário: Coletamos seu e-mail e nome básicos ao fazer login usando serviços de autenticação (Google Sign-In, Apple Sign-In ou E-mail/Senha)."
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Serviços de Terceiros",
+          "content": "O aplicativo utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo, rastrear o uso do aplicativo, fornecer suporte técnico e exibir anúncios.",
+          "third_parties": [
+            {
+              "name": "Google Play Services",
+              "url": "https://policies.google.com/privacy"
+            },
+            {
+              "name": "Google AdMob",
+              "url": "https://support.google.com/admob/answer/6128543"
+            },
+            {
+              "name": "Pangle (Mediação)",
+              "url": "https://www.pangleglobal.com/privacy"
+            },
+            {
+              "name": "Firebase Core, Auth, e Firestore",
+              "url": "https://firebase.google.com/support/privacy"
+            },
+            {
+              "name": "Firebase Analytics e Crashlytics",
+              "url": "https://firebase.google.com/support/privacy"
+            },
+            {
+              "name": "RevenueCat",
+              "url": "https://www.revenuecat.com/privacy"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Dados de Log e Analytics",
+          "content": "Sempre que você usar nosso Serviço, no caso de um erro no aplicativo, coletamos dados (Log Data) por meio do Firebase Crashlytics. Esses dados podem incluir IP, versão do SO e horário do erro."
+        },
+        {
+          "id": "4",
+          "title": "Assinaturas e Compras no Aplicativo",
+          "content": "O processamento de pagamentos é feito inteiramente pelas lojas de aplicativos oficiais (App Store e Google Play). O RevenueCat é usado apenas para verificar e conceder acesso aos recursos premium; nós não armazenamos dados de cartão de crédito."
+        },
+        {
+          "id": "5",
+          "title": "Segurança de Dados",
+          "content": "Valorizamos sua confiança, mas lembre-se de que nenhum método de armazenamento ou transmissão eletrônica é 100% seguro."
+        },
+        {
+          "id": "6",
+          "title": "Exclusão de Dados (Direito do Usuário)",
+          "content": "Você tem o direito de solicitar a exclusão de seus dados e conta diretamente nas configurações do aplicativo ou enviando um e-mail para o suporte. Os dados serão removidos em até 30 dias."
+        },
+        {
+          "id": "7",
+          "title": "Privacidade de Crianças",
+          "content": "Não coletamos intencionalmente informações de crianças menores de 13 anos. Se descobrirmos tal ocorrência, as informações serão excluídas."
+        },
+        {
+          "id": "8",
+          "title": "Alterações nesta Política",
+          "content": "Podemos atualizar esta política. Recomendamos revisá-la periodicamente."
+        }
+      ],
+      "legal_compliance": "Esta política foi elaborada com foco na conformidade com a LGPD (Brasil), GDPR (Europa) e diretrizes da Google Play Store / Apple App Store."
+    },
+    "en": {
+      "title": "Privacy Policy",
+      "last_updated": "May 23, 2026",
+      "introduction": "The developer of Sorteador (hereinafter referred to as \"we\", \"us\", or \"app\") built the Sorteador app as a Commercial/Freemium app. This SERVICE is provided by us and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. By using our Service, you agree to the collection and use of information in relation to this policy.",
+      "sections": [
+        {
+          "id": "1",
+          "title": "Information Collection and Use",
+          "content": "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained on your device or our servers for the operation of the app and is not sold to third parties.",
+          "items": [
+            "Storage and Files: We use file access to save and export generated draw results and lists when necessary.",
+            "User Authentication: We collect your basic email and name when logging in using authentication services (Google Sign-In, Apple Sign-In, or Email/Password)."
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Third-Party Services",
+          "content": "The app does use third-party services that may collect information used to identify you, track app usage, provide technical support, and display ads.",
+          "third_parties": [
+            {
+              "name": "Google Play Services",
+              "url": "https://policies.google.com/privacy"
+            },
+            {
+              "name": "Google AdMob",
+              "url": "https://support.google.com/admob/answer/6128543"
+            },
+            {
+              "name": "Pangle (Mediation)",
+              "url": "https://www.pangleglobal.com/privacy"
+            },
+            {
+              "name": "Firebase Core, Auth, and Firestore",
+              "url": "https://firebase.google.com/support/privacy"
+            },
+            {
+              "name": "Firebase Analytics and Crashlytics",
+              "url": "https://firebase.google.com/support/privacy"
+            },
+            {
+              "name": "RevenueCat",
+              "url": "https://www.revenuecat.com/privacy"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Log Data and Analytics",
+          "content": "Whenever you use our Service, in a case of an error in the app we collect data (Log Data) through Firebase Crashlytics. This data may include IP, OS version, and time of the error."
+        },
+        {
+          "id": "4",
+          "title": "In-App Subscriptions and Purchases",
+          "content": "Payment processing is handled entirely by official app stores (App Store and Google Play). RevenueCat is used only to verify and grant access to premium features; we do not store credit card data."
+        },
+        {
+          "id": "5",
+          "title": "Data Security",
+          "content": "We value your trust, but remember that no method of electronic storage or transmission is 100% secure."
+        },
+        {
+          "id": "6",
+          "title": "Data Deletion (User Right)",
+          "content": "You have the right to request the deletion of your data and account directly through the app settings or by emailing support. Data will be removed within 30 days."
+        },
+        {
+          "id": "7",
+          "title": "Children's Privacy",
+          "content": "We do not knowingly collect information from children under 13. If we discover such an occurrence, the information will be deleted."
+        },
+        {
+          "id": "8",
+          "title": "Changes to This Policy",
+          "content": "We may update this policy. We recommend reviewing it periodically."
+        }
+      ],
+      "legal_compliance": "This policy was drafted focusing on compliance with LGPD (Brazil), GDPR (Europe), and Google Play Store / Apple App Store guidelines."
+    }
+  },
+  "terms_of_use": {
+    "pt": {
+      "title": "Termos de Uso",
+      "last_updated": "23 de Maio de 2026",
+      "introduction": "Bem-vindo ao Sorteador. Estes Termos de Uso regem o seu acesso e uso do aplicativo móvel fornecido pela Class A Tecnologia. Ao baixar ou usar o aplicativo, estes termos se aplicarão automaticamente a você – portanto, certifique-se de lê-los cuidadosamente antes de usar o aplicativo.",
+      "sections": [
+        {
+          "id": "1",
+          "title": "Uso do Aplicativo",
+          "content": "Você tem permissão para baixar, instalar e usar o aplicativo estritamente para seus fins comerciais ou pessoais. Não é permitido copiar, modificar, extrair o código-fonte ou utilizá-lo para fins ilegais. Todos os direitos de propriedade intelectual pertencem à Class A Tecnologia."
+        },
+        {
+          "id": "2",
+          "title": "Planos, Assinaturas e Pagamentos (RevenueCat)",
+          "content": "Todas as transações financeiras são gerenciadas pelas lojas de aplicativos oficiais (Google Play Store e Apple App Store) utilizando a infraestrutura do RevenueCat. Nós não temos acesso e não armazenamos suas informações de cartão de crédito. As assinaturas são renovadas automaticamente, a menos que sejam canceladas com 24 horas de antecedência."
+        },
+        {
+          "id": "3",
+          "title": "Serviços de Terceiros",
+          "content": "O aplicativo utiliza serviços de terceiros (Google Play Services, AdMob, Firebase e Crashlytics) que possuem seus próprios Termos e Condições e Políticas de Privacidade."
+        },
+        {
+          "id": "4",
+          "title": "Isenção de Responsabilidade",
+          "content": "A Class A Tecnologia não garante que o serviço será ininterrupto ou livre de erros. Os sorteios e resultados gerados pelo aplicativo são de inteira responsabilidade do usuário."
+        },
+        {
+          "id": "5",
+          "title": "Limitação de Responsabilidade",
+          "content": "A Class A Tecnologia não aceitará qualquer responsabilidade por qualquer perda resultante da confiança neste aplicativo, tampouco por perda de dados."
+        },
+        {
+          "id": "6",
+          "title": "Alterações nos Termos",
+          "content": "Podemos atualizar nossos Termos de Uso de tempos em tempos. Recomendamos que você revise esta página periodicamente."
+        }
+      ]
+    },
+    "en": {
+      "title": "Terms of Use",
+      "last_updated": "May 23, 2026",
+      "introduction": "Welcome to Sorteador. These Terms of Use govern your access to and use of the mobile application provided by Class A Tecnologia. By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.",
+      "sections": [
+        {
+          "id": "1",
+          "title": "Use of the Application",
+          "content": "You are permitted to download, install, and use the application strictly for your commercial or personal purposes. You are not allowed to copy, modify, extract source code, or use for illegal purposes. All intellectual property rights belong to Class A Tecnologia."
+        },
+        {
+          "id": "2",
+          "title": "Plans, Subscriptions, and Payments (RevenueCat)",
+          "content": "All financial transactions are managed by official app stores (Google Play Store and Apple App Store) utilizing RevenueCat's infrastructure. We do not have access to and do not store your credit card information. Subscriptions automatically renew unless canceled 24 hours in advance."
+        },
+        {
+          "id": "3",
+          "title": "Third-Party Services",
+          "content": "The app uses third-party services (Google Play Services, AdMob, Firebase, and Crashlytics) that have their own Terms and Conditions."
+        },
+        {
+          "id": "4",
+          "title": "Disclaimer",
+          "content": "Class A Tecnologia does not guarantee that the service will be uninterrupted or error-free. The draws and results generated by the app are the user's responsibility."
+        },
+        {
+          "id": "5",
+          "title": "Limitation of Liability",
+          "content": "Class A Tecnologia will not accept any liability for any loss resulting from reliance on this app or for data loss."
+        },
+        {
+          "id": "6",
+          "title": "Changes to Terms",
+          "content": "We may update our Terms of Use from time to time. We recommend reviewing this page periodically."
+        }
+      ]
+    }
+  }
+}
