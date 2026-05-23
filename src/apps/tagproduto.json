@@ -1,0 +1,138 @@
+{
+  "id": "tagproduto",
+  "name": "Tag Produto",
+  "tagline": "Crie etiquetas de prateleira e produto com agilidade e profissionalismo!",
+  "description": "Crie e imprima etiquetas para prateleiras e produtos de forma rápida e prática. Ideal para supermercados, mercadinhos, lojas e qualquer tipo de comércio que precise organizar seus produtos com etiquetas de preço profissionais e personalizadas.",
+  "category": "Negócios",
+  "rating": "4.7",
+  "reviewsCount": "500+",
+  "icon": "../assets/images/tagproduto/icon.png",
+  "theme": {
+    "primary": "#1565c0",
+    "secondary": "#42a5f5",
+    "dark": "#030d1a",
+    "light": "#bbdefb"
+  },
+  "links": {
+    "playStore": "https://play.google.com/store/apps/details?id=com.rslima.tag_product",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Etiquetas Profissionais",
+    "Impressão Rápida",
+    "Fácil de Usar"
+  ],
+  "features": [
+    {
+      "title": "Etiquetas Personalizadas",
+      "description": "Crie etiquetas de preço, prateleira e produto com layouts profissionais e editáveis para qualquer tipo de comércio.",
+      "icon": "🏷️"
+    },
+    {
+      "title": "Impressão Direta",
+      "description": "Imprima suas etiquetas diretamente pelo aplicativo em diversos formatos e tamanhos compatíveis com impressoras comuns.",
+      "icon": "🖨️"
+    },
+    {
+      "title": "Templates Prontos",
+      "description": "Dezenas de modelos prontos para supermercados, açougues, padarias e lojas de qualquer segmento.",
+      "icon": "🎨"
+    },
+    {
+      "title": "Compartilhamento",
+      "description": "Exporte e compartilhe suas etiquetas em alta qualidade pelo WhatsApp, e-mail ou redes sociais com apenas um toque.",
+      "icon": "📲"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Ana Paula Sousa",
+      "rating": 5,
+      "comment": "Aplicativo incrível! Facilita muito minha vida no mercadinho, as etiquetas ficam super profissionais.",
+      "role": "Comerciante"
+    },
+    {
+      "name": "Carlos Ferreira",
+      "rating": 5,
+      "comment": "Simples de usar e com resultado excelente. Recomendo para qualquer lojista!",
+      "role": "Lojista"
+    },
+    {
+      "name": "Mariana Gomes",
+      "rating": 5,
+      "comment": "Uso todo dia na minha padaria. Muito prático e as etiquetas saem lindas!",
+      "role": "Empreendedora"
+    },
+    {
+      "name": "João Pedro Lima",
+      "rating": 4,
+      "comment": "Muito bom aplicativo, atende todas as necessidades do meu comércio. Suporte sempre presente!",
+      "role": "Cliente Verificado"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "1. Informações Gerais",
+      "paragraphs": [
+        "A sua privacidade é de extrema importância para nós. Esta Política de Privacidade descreve como o aplicativo Tag Produto, desenvolvido pela ClassA, coleta, usa e compartilha suas informações ao utilizar nossos serviços.",
+        "Ao utilizar nosso aplicativo, você concorda com a coleta e o uso de informações de acordo com esta política."
+      ]
+    },
+    {
+      "title": "2. Armazenamento Local de Dados",
+      "paragraphs": [
+        "Todas as etiquetas criadas, templates editados e configurações do aplicativo são salvos única e exclusivamente no armazenamento interno do seu dispositivo móvel.",
+        "Não enviamos seus dados comerciais ou de produtos para servidores externos sem o seu consentimento explícito."
+      ]
+    },
+    {
+      "title": "3. Serviços de Terceiros e Anúncios",
+      "paragraphs": [
+        "O aplicativo integra serviços de terceiros que podem coletar informações de forma anônima para melhorar o serviço. Isso inclui o Google Play Services e AdMob/Google AdSense para exibição de anúncios."
+      ]
+    },
+    {
+      "title": "4. Contato para Suporte",
+      "paragraphs": [
+        "Caso tenha dúvidas sobre esta política, entre em contato através do e-mail de suporte da nossa desenvolvedora: suporte.classa@gmail.com."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "1. Aceitação dos Termos",
+      "paragraphs": [
+        "Ao baixar e utilizar o aplicativo Tag Produto, você concorda com estes termos de uso. Se você não concordar com estes termos, não utilize o aplicativo.",
+        "Estes termos aplicam-se a todos os usuários, visitantes e outros que acessam ou usam o aplicativo."
+      ]
+    },
+    {
+      "title": "2. Licença de Uso",
+      "paragraphs": [
+        "Concedemos a você uma licença limitada, não-exclusiva e intransferível para utilizar o aplicativo em seu celular pessoal para criação de etiquetas comerciais.",
+        "Sob esta licença, você não pode: descompilar, fazer engenharia reversa do aplicativo ou tentar revender a ferramenta de edição de forma independente."
+      ]
+    },
+    {
+      "title": "3. Responsabilidade pelo Conteúdo",
+      "paragraphs": [
+        "Você é o único responsável legal pela veracidade dos preços e informações divulgados nas etiquetas geradas através do aplicativo. O aplicativo serve apenas como uma ferramenta de design gráfico."
+      ]
+    },
+    {
+      "title": "4. Limitação de Responsabilidade",
+      "paragraphs": [
+        "Em nenhum caso o desenvolvedor ou a ClassA serão responsáveis por quaisquer danos decorrentes do uso ou da incapacidade de usar os materiais criados no aplicativo Tag Produto."
+      ]
+    }
+  ],
+  "phoneScreenshot": "../assets/images/tagproduto/screenshot1.png",
+  "screenshots": [
+    "../assets/images/tagproduto/screenshot1.png",
+    "../assets/images/tagproduto/screenshot2.png",
+    "../assets/images/tagproduto/screenshot3.png",
+    "../assets/images/tagproduto/screenshot4.png",
+    "../assets/images/tagproduto/screenshot5.png"
+  ]
+}

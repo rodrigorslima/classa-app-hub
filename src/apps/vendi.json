@@ -1,0 +1,137 @@
+{
+  "id": "vendi",
+  "name": "Vendi",
+  "tagline": "Venda, Organize e Cresça — o sistema de vendas no seu bolso!",
+  "description": "O Vendi é o aplicativo completo para quem quer vender mais e organizar melhor. Controle seus produtos, clientes e pedidos de forma simples e eficiente, tudo direto do seu celular. Ideal para pequenos negócios, vendedores autônomos, revendedores e empreendedores que precisam de agilidade no dia a dia.",
+  "category": "Negócios",
+  "rating": "4.8",
+  "reviewsCount": "300+",
+  "icon": "../assets/images/vendi/icon.png",
+  "theme": {
+    "primary": "#00897b",
+    "secondary": "#26c6da",
+    "dark": "#020f0e",
+    "light": "#b2dfdb"
+  },
+  "links": {
+    "playStore": "https://play.google.com/store/apps/details?id=com.classa.vendi",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Controle de Vendas",
+    "Gestão de Clientes",
+    "Relatórios em Tempo Real"
+  ],
+  "features": [
+    {
+      "title": "Gestão de Pedidos",
+      "description": "Registre e acompanhe todos os seus pedidos em tempo real. Saiba exatamente o que foi vendido, entregue e recebido com poucos toques.",
+      "icon": "📋"
+    },
+    {
+      "title": "Catálogo de Produtos",
+      "description": "Monte seu catálogo de produtos de forma rápida e profissional. Adicione fotos, preços e descrições para facilitar suas vendas.",
+      "icon": "🛒"
+    },
+    {
+      "title": "Relatórios de Vendas",
+      "description": "Acompanhe o desempenho do seu negócio com relatórios detalhados de vendas, receita e produtos mais vendidos.",
+      "icon": "📈"
+    },
+    {
+      "title": "Compartilhamento Fácil",
+      "description": "Compartilhe seu catálogo e pedidos pelo WhatsApp e redes sociais para vender mais com apenas um toque.",
+      "icon": "📲"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Fernanda Costa",
+      "rating": 5,
+      "comment": "Esse app mudou minha vida! Consigo controlar todas as minhas vendas de forma simples e rápida. Recomendo demais!",
+      "role": "Revendedora"
+    },
+    {
+      "name": "Ricardo Alves",
+      "rating": 5,
+      "comment": "Perfeito para quem trabalha com vendas diretas. Interface muito intuitiva e o suporte é excelente!",
+      "role": "Vendedor Autônomo"
+    },
+    {
+      "name": "Patrícia Mendes",
+      "rating": 5,
+      "comment": "Finalmente um app de vendas que funciona! Fácil de usar e completo. Meu negócio cresceu muito desde que comecei a usar.",
+      "role": "Empreendedora"
+    },
+    {
+      "name": "Lucas Oliveira",
+      "rating": 5,
+      "comment": "Incrível! Controlo todo meu estoque e vendas pelo celular. Os relatórios são muito úteis para tomar decisões.",
+      "role": "Comerciante"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "1. Informações Gerais",
+      "paragraphs": [
+        "A sua privacidade é de extrema importância para nós. Esta Política de Privacidade descreve como o aplicativo Vendi, desenvolvido pela ClassA, coleta, usa e compartilha suas informações ao utilizar nossos serviços.",
+        "Ao utilizar nosso aplicativo, você concorda com a coleta e o uso de informações de acordo com esta política."
+      ]
+    },
+    {
+      "title": "2. Armazenamento de Dados",
+      "paragraphs": [
+        "Seus dados de vendas, clientes e produtos são armazenados de forma segura para garantir o funcionamento correto do aplicativo.",
+        "Não compartilhamos suas informações comerciais com terceiros sem o seu consentimento explícito."
+      ]
+    },
+    {
+      "title": "3. Serviços de Terceiros",
+      "paragraphs": [
+        "O aplicativo integra serviços de terceiros que podem coletar informações de forma anônima para melhorar o serviço. Isso inclui o Google Play Services para autenticação e funcionalidades do sistema."
+      ]
+    },
+    {
+      "title": "4. Contato para Suporte",
+      "paragraphs": [
+        "Caso tenha dúvidas sobre esta política, entre em contato através do e-mail de suporte da nossa desenvolvedora: suporte.classa@gmail.com."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "1. Aceitação dos Termos",
+      "paragraphs": [
+        "Ao baixar e utilizar o aplicativo Vendi, você concorda com estes termos de uso. Se você não concordar com estes termos, não utilize o aplicativo.",
+        "Estes termos aplicam-se a todos os usuários, visitantes e outros que acessam ou usam o aplicativo."
+      ]
+    },
+    {
+      "title": "2. Licença de Uso",
+      "paragraphs": [
+        "Concedemos a você uma licença limitada, não-exclusiva e intransferível para utilizar o aplicativo em seu celular pessoal para gestão de vendas e negócios.",
+        "Sob esta licença, você não pode: descompilar, fazer engenharia reversa do aplicativo ou redistribuí-lo de forma independente."
+      ]
+    },
+    {
+      "title": "3. Responsabilidade pelo Conteúdo",
+      "paragraphs": [
+        "Você é o único responsável legal pelas informações de produtos, preços e clientes cadastrados no aplicativo. O Vendi serve apenas como uma ferramenta de gestão de vendas."
+      ]
+    },
+    {
+      "title": "4. Limitação de Responsabilidade",
+      "paragraphs": [
+        "Em nenhum caso o desenvolvedor ou a ClassA serão responsáveis por quaisquer danos decorrentes do uso ou da incapacidade de usar o aplicativo Vendi."
+      ]
+    }
+  ],
+  "phoneScreenshot": "../assets/images/vendi/screenshot1.png",
+  "screenshots": [
+    "../assets/images/vendi/screenshot1.png",
+    "../assets/images/vendi/screenshot2.png",
+    "../assets/images/vendi/screenshot3.png",
+    "../assets/images/vendi/screenshot4.png"
+  ]
+}

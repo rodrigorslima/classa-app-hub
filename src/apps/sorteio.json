@@ -1,0 +1,132 @@
+{
+  "id": "sorteio",
+  "name": "Sorteio",
+  "tagline": "Sorteie números e nomes com rapidez, histórico e modo automático!",
+  "description": "O Sorteio é o aplicativo perfeito para realizar sorteios de números e nomes de forma rápida, justa e divertida. Com histórico completo, modo automático e interface intuitiva, é ideal para rifas, bingos, brincadeiras, sorteios de brindes em eventos, e muito mais. Simples de usar, sem complicação.",
+  "category": "Ferramentas",
+  "rating": "4.8",
+  "reviewsCount": "400+",
+  "icon": "../assets/images/sorteio/icon.png",
+  "theme": {
+    "primary": "#6a1b9a",
+    "secondary": "#ce93d8",
+    "dark": "#0a0212",
+    "light": "#e1bee7"
+  },
+  "links": {
+    "playStore": "https://play.google.com/store/apps/details?id=com.rslima.prize_draw",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Sorteio Instantâneo",
+    "Histórico Completo",
+    "Modo Automático"
+  ],
+  "features": [
+    {
+      "title": "Sorteio de Números",
+      "description": "Sorteie números em qualquer faixa definida por você. Ideal para rifas, bingos e jogos de azar amadores.",
+      "icon": "✨"
+    },
+    {
+      "title": "Sorteio de Nomes",
+      "description": "Adicione uma lista de nomes e sorteie de forma totalmente aleatória e justa. Perfeito para amigo secreto e sorteios de brindes.",
+      "icon": "📋"
+    },
+    {
+      "title": "Histórico Completo",
+      "description": "Consulte todos os números e nomes já sorteados para garantir transparência total nos resultados.",
+      "icon": "📈"
+    },
+    {
+      "title": "Modo Automático",
+      "description": "Ative o modo automático para sortear em sequência sem precisar tocar na tela. Ideal para eventos ao vivo.",
+      "icon": "⚡"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Marcia Santos",
+      "rating": 5,
+      "comment": "Uso para o amigo secreto da família todo ano! Prático, rápido e sem enrolação. Nota 10!",
+      "role": "Usuária"
+    },
+    {
+      "name": "Gilberto Nunes",
+      "rating": 5,
+      "comment": "Perfeito para as rifas da nossa associação. O histórico é ótimo para comprovar transparência.",
+      "role": "Organizador de Rifas"
+    },
+    {
+      "name": "Tatiane Carvalho",
+      "rating": 5,
+      "comment": "Aplicativo excelente! Usei no evento da escola e foi um sucesso. Muito fácil de usar.",
+      "role": "Professora"
+    },
+    {
+      "name": "Diego Almeida",
+      "rating": 4,
+      "comment": "Muito bom! O modo automático é sensacional para bingo ao vivo. Recomendo!",
+      "role": "Animador de Eventos"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "1. Informações Gerais",
+      "paragraphs": [
+        "A sua privacidade é de extrema importância para nós. Esta Política de Privacidade descreve como o aplicativo Sorteio, desenvolvido pela ClassA, coleta, usa e compartilha suas informações ao utilizar nossos serviços.",
+        "Ao utilizar nosso aplicativo, você concorda com a coleta e o uso de informações de acordo com esta política."
+      ]
+    },
+    {
+      "title": "2. Armazenamento Local de Dados",
+      "paragraphs": [
+        "Todo o histórico de sorteios e listas de nomes são salvos exclusivamente no armazenamento interno do seu dispositivo.",
+        "Não enviamos seus dados de sorteios para servidores externos."
+      ]
+    },
+    {
+      "title": "3. Serviços de Terceiros",
+      "paragraphs": [
+        "O aplicativo integra o Google Play Services e pode exibir anúncios via AdMob, que podem coletar dados de forma anônima para personalização de anúncios."
+      ]
+    },
+    {
+      "title": "4. Contato para Suporte",
+      "paragraphs": [
+        "Caso tenha dúvidas sobre esta política, entre em contato através do e-mail: suporte.classa@gmail.com."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "1. Aceitação dos Termos",
+      "paragraphs": [
+        "Ao baixar e utilizar o aplicativo Sorteio, você concorda com estes termos de uso.",
+        "Estes termos aplicam-se a todos os usuários que acessam ou usam o aplicativo."
+      ]
+    },
+    {
+      "title": "2. Licença de Uso",
+      "paragraphs": [
+        "Concedemos a você uma licença limitada, não-exclusiva e intransferível para utilizar o aplicativo em seu celular para realização de sorteios.",
+        "Você não pode descompilar, fazer engenharia reversa ou redistribuir o aplicativo."
+      ]
+    },
+    {
+      "title": "3. Limitação de Responsabilidade",
+      "paragraphs": [
+        "Em nenhum caso o desenvolvedor ou a ClassA serão responsáveis por quaisquer danos decorrentes do uso do aplicativo Sorteio ou dos resultados gerados por ele."
+      ]
+    }
+  ],
+  "phoneScreenshot": "../assets/images/sorteio/screenshot2.png",
+  "screenshots": [
+    "../assets/images/sorteio/screenshot1.png",
+    "../assets/images/sorteio/screenshot2.png",
+    "../assets/images/sorteio/screenshot3.png",
+    "../assets/images/sorteio/screenshot4.png",
+    "../assets/images/sorteio/screenshot5.png"
+  ]
+}

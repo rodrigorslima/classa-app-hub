@@ -1,0 +1,144 @@
+{
+  "id": "cartazpromocional",
+  "name": "Cartaz Promocional",
+  "tagline": "Crie cartazes de ofertas incríveis para seu comércio em segundos!",
+  "description": "O Cartaz Promocional é o aplicativo definitivo para comerciantes, feirantes e pequenos empresários. Crie artes de ofertas, cartazes de preços e avisos de produtos com facilidade, rapidez e qualidade profissional diretamente do seu celular. Esqueça os cartazes manuais e crie panfletos digitais prontos para imprimir em vários formatos ou compartilhar nas redes sociais.",
+  "category": "Negócios",
+  "rating": "4.8",
+  "reviewsCount": "1.910",
+  "icon": "../assets/images/cartazpromocional/icon.png",
+  "theme": {
+    "primary": "#ff5722",
+    "secondary": "#ff9800",
+    "dark": "#1a0b05",
+    "light": "#ffe0b2"
+  },
+  "links": {
+    "playStore": "https://play.google.com/store/apps/details?id=com.rslima.promotion_poster",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Design Profissional",
+    "Focado em Performance",
+    "Interface Moderna"
+  ],
+  "features": [
+    {
+      "title": "Modelos Editáveis",
+      "description": "Dezenas de templates prontos desenvolvidos especificamente para supermercados, açougues, padarias e comércio em geral.",
+      "icon": "🎨"
+    },
+    {
+      "title": "Formatos de Impressão",
+      "description": "Crie cartazes em formatos verticais e horizontais otimizados para impressão em tamanhos A1, A2, A3, A4 e modo de 4 ofertas por página.",
+      "icon": "🖨️"
+    },
+    {
+      "title": "Marca Personalizada",
+      "description": "Insira o logotipo do seu próprio estabelecimento, escolha entre fontes variadas e adapte as cores do cartaz ao seu negócio.",
+      "icon": "🏷️"
+    },
+    {
+      "title": "Compartilhamento",
+      "description": "Exporte suas artes de preços en alta resolução e envie no WhatsApp, Instagram e redes sociais com apenas um toque.",
+      "icon": "📲"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "tatiana oliveira",
+      "rating": 5,
+      "comment": "Tem me ajudado muito esse app aqui no meu comércio,eu super indico",
+      "role": "Comerciante"
+    },
+    {
+      "name": "Bruna Enfermagem",
+      "rating": 5,
+      "comment": "Pensa em um aplicativo Top , simples, Resolutivo,e os produtores desse app extremamente atenciosos coisa que eu nunca vi ,comecei a seguir a página deles no Instagram e desde então sempre me dão dicas de como está aperfeiçoando meus cartaz Simplesmente o melhor app Nota Mil.....",
+      "role": "Usuária Ativa"
+    },
+    {
+      "name": "MARCELO MIRANDA LISTA",
+      "rating": 5,
+      "comment": "aplicativo muito bom, tenho recorrido aos seus prestos e tenho encontrado muitos bons resultados, pra quem precisa e sabe como usar tem um excelete resultado, sem contar com o atendimento via whatsap ,pra mim nota 10",
+      "role": "Cliente Verificado"
+    },
+    {
+      "name": "Sérgio BUITONI",
+      "rating": 5,
+      "comment": "Estou usando a pouco tempo, mas vejo futuro...pois aplicativo superou as expectativas...melhoras ainda por vir...qualquer problema os produtores atendem na hora e resolvem o problema.",
+      "role": "Empreendedor"
+    },
+    {
+      "name": "Mateus Moreto",
+      "rating": 5,
+      "comment": "Estou usando a pouco tempo , bastante satisfeito , prático e muito eficaz , e sempre com atualizações com novidades ! Meus parabéns ao produtor 👏 , continuem assim !!!",
+      "role": "Comerciante"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "1. Informações Gerais",
+      "paragraphs": [
+        "A sua privacidade é de extrema importância para nós. Esta Política de Privacidade descreve como o aplicativo Cartaz Promocional, desenvolvido pela ClassA, coleta, usa e compartilha suas informações ao utilizar nossos serviços.",
+        "Ao utilizar nosso aplicativo, você concorda com a coleta e o uso de informações de acordo com esta política."
+      ]
+    },
+    {
+      "title": "2. Armazenamento Local de Dados",
+      "paragraphs": [
+        "Todas as artes, templates criados, preços de produtos e imagens inseridos no aplicativo são salvos única e exclusivamente no armazenamento interno do seu dispositivo móvel.",
+        "Não enviamos suas informações de ofertas, tabelas de preços ou imagens comerciais para servidores externos sem o seu consentimento explícito."
+      ]
+    },
+    {
+      "title": "3. Serviços de Terceiros e Anúncios",
+      "paragraphs": [
+        "O aplicativo integra serviços de terceiros que podem coletar informações de forma anônima para melhorar o serviço. Isso inclui o Google Play Services (para autenticação e compras no app) e AdMob/Google AdSense para exibição de anúncios."
+      ]
+    },
+    {
+      "title": "4. Contato para Suporte",
+      "paragraphs": [
+        "Caso tenha dúvidas sobre como suas permissões de armazenamento local são gerenciadas ou sobre esta política, sinta-se à vontade para entrar em contato através do e-mail de suporte da nossa desenvolvedora: suporte.classa@gmail.com."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "1. Aceitação dos Termos",
+      "paragraphs": [
+        "Ao baixar e utilizar o aplicativo Cartaz Promocional, você concorda com estes termos de uso. Se você não concordar com estes termos, não utilize o aplicativo.",
+        "Estes termos aplicam-se a todos os usuários, visitantes e outros que acessam ou usam o aplicativo."
+      ]
+    },
+    {
+      "title": "2. Licença de Uso",
+      "paragraphs": [
+        "Concedemos a você uma licença limitada, não-exclusiva e intransferível para utilizar o aplicativo em seu celular pessoal para criação de cartazes comerciais ou informativos.",
+        "Sob esta licença, você não pode: descompilar, fazer engenharia reversa do aplicativo ou tentar revender a ferramenta de edição de forma independente."
+      ]
+    },
+    {
+      "title": "3. Responsabilidade pelo Conteúdo",
+      "paragraphs": [
+        "Você é o único responsável legal pela veracidade dos preços, ofertas e marcas divulgadas nos cartazes gerados através do aplicativo. O aplicativo serve apenas como uma ferramenta de edição e design gráfico."
+      ]
+    },
+    {
+      "title": "4. Limitação de Responsabilidade",
+      "paragraphs": [
+        "Em nenhum caso o desenvolvedor ou a ClassA serão responsáveis por quaisquer danos decorrentes do uso ou da incapacidade de usar os materiais criados no aplicativo Cartaz Promocional."
+      ]
+    }
+  ],
+  "phoneScreenshot": "../assets/images/cartazpromocional/mockup.png",
+  "screenshots": [
+    "../assets/images/cartazpromocional/screenshot1.png",
+    "../assets/images/cartazpromocional/screenshot2.png",
+    "../assets/images/cartazpromocional/screenshot3.png",
+    "../assets/images/cartazpromocional/screenshot4.png",
+    "../assets/images/cartazpromocional/screenshot5.png"
+  ]
+}

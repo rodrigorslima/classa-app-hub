@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Política de privacidade, termos de uso e informações sobre o aplicativo {{APP_NAME}}.">
+  <title>{{APP_NAME}} | Política de Privacidade & Termos</title>
+  
+  <!-- CSS Principal -->
+  <link rel="stylesheet" href="../assets/css/style.css">
+
+  <!-- Estilos Dinâmicos Injetados (Tema Personalizado do App) -->
+  <style>
+    :root {
+      --primary-color: {{THEME_PRIMARY}};
+      --secondary-color: {{THEME_SECONDARY}};
+      --bg-color: {{THEME_DARK}};
+      --card-bg: rgba(255, 255, 255, 0.02);
+      --card-border: rgba(255, 255, 255, 0.05);
+      --card-hover-border: rgba(255, 255, 255, 0.15);
+      --glow-color: {{THEME_PRIMARY}}1a; /* 10% de opacidade */
+    }
+    
+    body::after {
+      background: radial-gradient(circle, {{THEME_PRIMARY}}22 0%, transparent 70%); /* 13% opacidade */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Cabeçalho -->
+  <header>
+    <div class="nav-container">
+      <a href="../" class="logo">
+        Meus Apps <span class="logo-dot"></span>
+      </a>
+      <div class="footer-links">
+        <a href="../" class="footer-link">Ver Todos</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Container Principal -->
+  <main class="app-detail-container">
+    <!-- Botão de Voltar -->
+    <div class="back-btn-wrapper">
+      <a href="../" class="back-btn">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="19" y1="12" x2="5" y2="12"></line>
+          <polyline points="12 19 5 12 12 5"></polyline>
+        </svg>
+        Voltar para a Galeria
+      </a>
+    </div>
+
+    <!-- Hero Section do Aplicativo -->
+    <section class="app-hero">
+      <div class="app-hero-icon">
+        <img src="{{APP_ICON}}" alt="Ícone do {{APP_NAME}}" class="app-icon">
+      </div>
+      <div class="app-hero-info">
+        <span class="app-tag">{{APP_CATEGORY}}</span>
+        <h1>{{APP_NAME}}</h1>
+        <p class="app-hero-tagline">{{APP_TAGLINE}}</p>
+        <p class="app-hero-desc">{{APP_DESCRIPTION}}</p>
+        
+        <!-- Botões de Download -->
+        <div class="download-badges">
+          {{DOWNLOAD_BADGES}}
+        </div>
+      </div>
+    </section>
+
+    <!-- Menu de Abas -->
+    <section class="app-tabs-wrapper">
+      <div class="tabs-nav">
+        <button class="tab-link active" data-tab="apresentacao">Apresentação</button>
+        <button class="tab-link" data-tab="privacidade">Política de Privacidade</button>
+        <button class="tab-link" data-tab="termos">Termos de Uso</button>
+        <button class="tab-link" data-tab="suporte">Suporte & Contato</button>
+      </div>
+    </section>
+
+    <!-- Conteúdos das Abas -->
+    
+    <!-- Aba 1: Apresentação -->
+    <section id="tab-apresentacao" class="tab-content-panel active">
+      <h2>Principais Recursos</h2>
+      <div class="features-grid">
+        {{FEATURES_LIST}}
+      </div>
+    </section>
+
+    <!-- Aba 2: Política de Privacidade -->
+    <section id="tab-privacidade" class="tab-content-panel">
+      <div class="doc-card">
+        <div class="doc-content">
+          <h1>Política de Privacidade</h1>
+          <p class="doc-last-updated">Última atualização: 2026</p>
+          {{PRIVACY_POLICY}}
+        </div>
+      </div>
+    </section>
+
+    <!-- Aba 3: Termos de Uso -->
+    <section id="tab-termos" class="tab-content-panel">
+      <div class="doc-card">
+        <div class="doc-content">
+          <h1>Termos de Uso</h1>
+          <p class="doc-last-updated">Última atualização: 2026</p>
+          {{TERMS_OF_USE}}
+        </div>
+      </div>
+    </section>
+
+    <!-- Aba 4: Suporte & Contato -->
+    <section id="tab-suporte" class="tab-content-panel">
+      <div class="support-card">
+        <div class="support-icon">✉️</div>
+        <h2>Precisa de ajuda?</h2>
+        <p>Se você tiver alguma dúvida sobre o aplicativo {{APP_NAME}}, sugestão de melhoria ou precisar de suporte técnico, entre em contato conosco.</p>
+        <div class="support-details">
+          <div class="support-item">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+              <polyline points="22,6 12,13 2,6"></polyline>
+            </svg>
+            <span>suporte@seusite.com</span>
+          </div>
+          <div class="support-item">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"></circle>
+              <line x1="2" y1="12" x2="22" y2="12"></line>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
+            </svg>
+            <span>www.seusite.com</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Rodapé -->
+  <footer>
+    <div class="footer-content">
+      <p>&copy; 2026 {{APP_NAME}}. Todos os direitos reservados.</p>
+      <div class="footer-links">
+        <a href="../" class="footer-link">Início</a>
+        <a href="../#privacidade" class="footer-link">Políticas</a>
+        <a href="../#termos" class="footer-link">Termos</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Script Cliente -->
+  <script src="../assets/js/app-page.js"></script>
+</body>
+</html>

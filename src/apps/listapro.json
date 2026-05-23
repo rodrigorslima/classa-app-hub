@@ -1,0 +1,129 @@
+{
+  "id": "listapro",
+  "name": "Lista Pro",
+  "tagline": "Seu assistente inteligente de compras, sem anúncios e sem limites!",
+  "description": "O Lista Pro é o aplicativo definitivo para organizar suas compras no supermercado. Crie listas ilimitadas, organize itens por corredores, defina quantidades e unidades de medida, acompanhe estatísticas de gastos e personalize a interface com temas exclusivos. Uma experiência premium, rápida e focada em otimizar seu tempo e dinheiro.",
+  "category": "Produtividade",
+  "rating": "4.9",
+  "reviewsCount": "1.430",
+  "icon": "../assets/images/listapro/icon.png",
+  "theme": {
+    "primary": "#7c3aed",
+    "secondary": "#f59e0b",
+    "dark": "#0d0714",
+    "light": "#f3e8ff"
+  },
+  "links": {
+    "playStore": "https://play.google.com/store/apps/details?id=com.classa.lista_pro",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Livre de Anúncios",
+    "Focado em Performance",
+    "Listas Ilimitadas"
+  ],
+  "features": [
+    {
+      "title": "Listas & Itens Ilimitados",
+      "description": "Crie e gerencie quantas listas de compras desejar para diferentes supermercados, feiras ou eventos, sem nenhuma limitação de quantidade.",
+      "icon": "📋"
+    },
+    {
+      "title": "Setores & Corredores",
+      "description": "Categorize seus produtos por setores (Hortifrúti, Limpeza, Açougue, etc.) para seguir um fluxo inteligente e economizar tempo na loja física.",
+      "icon": "🛒"
+    },
+    {
+      "title": "Estatísticas Detalhadas",
+      "description": "Visualize gráficos intuitivos do seu progresso, itens comprados frequentemente e o histórico das suas listas concluídas.",
+      "icon": "📈"
+    },
+    {
+      "title": "Livre de Anúncios",
+      "description": "Aproveite uma experiência limpa e focada. Como um app Premium, você navega e organiza suas listas sem nenhuma interrupção de publicidade.",
+      "icon": "✨"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Carlos Eduardo",
+      "rating": 5,
+      "comment": "Melhor aplicativo de lista de compras! O sistema de setores me ajuda a economizar muito tempo no mercado. Interface muito limpa e rápida.",
+      "role": "Usuário Premium"
+    },
+    {
+      "name": "Mariana Costa",
+      "rating": 5,
+      "comment": "Adoro poder criar listas separadas para o supermercado e para a feira orgânica. O app é extremamente organizado, bonito e fácil de usar.",
+      "role": "Usuária Pro"
+    },
+    {
+      "name": "Thiago Oliveira",
+      "rating": 5,
+      "comment": "O backup local é ótimo. Os gráficos me dão uma boa ideia de como estão indo minhas despesas no mercado ao longo dos meses.",
+      "role": "Usuário Ativo"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "1. Coleta e Armazenamento de Dados",
+      "paragraphs": [
+        "O aplicativo Lista Pro respeita integralmente a privacidade de suas informações de consumo. Todas as listas de compras, itens cadastrados, preços e estatísticas inseridos no aplicativo são salvos única e exclusivamente na memória local do seu dispositivo móvel.",
+        "Não coletamos, transmitimos ou armazenamos seus dados pessoais ou listas de compras em servidores externos de nossa propriedade."
+      ]
+    },
+    {
+      "title": "2. Serviços de Terceiros",
+      "paragraphs": [
+        "O aplicativo não integra redes de anúncios de terceiros que possam rastrear seu comportamento. Para serviços básicos do sistema operacional (como compras integradas e validação da licença do aplicativo), são utilizados os serviços oficiais do Google Play Services, que podem coletar identificadores de dispositivo e informações básicas de transação financeira em conformidade com as políticas do Google."
+      ]
+    },
+    {
+      "title": "3. Permissões do Dispositivo",
+      "paragraphs": [
+        "O aplicativo requer permissões de leitura e gravação no armazenamento local para permitir que você exporte relatórios de compras e faça backup local das suas listas. Nenhuma informação de outros diretórios do seu aparelho é lida ou modificada."
+      ]
+    },
+    {
+      "title": "4. Alterações e Contato",
+      "paragraphs": [
+        "Esta Política de Privacidade pode ser alterada periodicamente. Caso tenha dúvidas, sugestões ou solicitações de esclarecimento sobre o uso dos seus dados locais, sinta-se à vontade para nos contatar através do e-mail suporte.classa@gmail.com."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "1. Aceitação e Licença",
+      "paragraphs": [
+        "Ao adquirir e utilizar o aplicativo Lista Pro, você declara concordar integralmente com estes Termos de Uso. Concedemos a você uma licença pessoal, não-exclusiva, intransferível e limitada para fazer o download, instalar e executar o aplicativo em seus dispositivos Android pessoais vinculados à sua conta da Play Store."
+      ]
+    },
+    {
+      "title": "2. Direitos de Propriedade",
+      "paragraphs": [
+        "Todo o código-fonte, elementos de design gráfico, marcas registradas, logotipo e funcionalidades do Lista Pro são de propriedade exclusiva do desenvolvedor (ClassA). É expressamente proibida a cópia, redistribuição, engenharia reversa ou modificação do software para fins comerciais ou de distribuição independente."
+      ]
+    },
+    {
+      "title": "3. Responsabilidades do Usuário",
+      "paragraphs": [
+        "Como os dados são armazenados inteiramente de forma local no seu smartphone, você é o único responsável pela integridade dos seus dados e pela realização de backups. O desenvolvedor não se responsabiliza por perda de listas de compras decorrentes de exclusões acidentais, restaurações de fábrica ou danos físicos ao aparelho."
+      ]
+    },
+    {
+      "title": "4. Modificações dos Termos",
+      "paragraphs": [
+        "Reservamos o direito de atualizar estes termos a qualquer momento. A continuidade no uso do aplicativo após as modificações constitui a aceitação tácita das novas cláusulas."
+      ]
+    }
+  ],
+  "phoneScreenshot": "../assets/images/listapro/screenshot1.png",
+  "screenshots": [
+    "../assets/images/listapro/screenshot1.png",
+    "../assets/images/listapro/screenshot2.png",
+    "../assets/images/listapro/screenshot3.png",
+    "../assets/images/listapro/screenshot4.png",
+    "../assets/images/listapro/screenshot5.png"
+  ]
+}

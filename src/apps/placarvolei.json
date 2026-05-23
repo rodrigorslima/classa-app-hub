@@ -1,0 +1,129 @@
+{
+  "id": "placarvolei",
+  "name": "Placar de Vôlei",
+  "tagline": "Acompanhe o placar dos seus jogos de vôlei em tempo real!",
+  "description": "O Placar de Vôlei é o aplicativo ideal para árbitros, jogadores e fãs que querem registrar e acompanhar o placar de partidas de vôlei de forma prática e intuitiva. Com interface clara e fácil de usar, nunca perca o fio da partida. Perfeito para quadras, escolinhas, campeonatos amadores e eventos esportivos.",
+  "category": "Esportes",
+  "rating": "4.7",
+  "reviewsCount": "200+",
+  "icon": "../assets/images/placarvolei/icon.png",
+  "theme": {
+    "primary": "#e53935",
+    "secondary": "#ffb300",
+    "dark": "#150303",
+    "light": "#ffcdd2"
+  },
+  "links": {
+    "playStore": "https://play.google.com/store/apps/details?id=com.rslima.volleyball_scoreboard",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Placar em Tempo Real",
+    "Fácil de Usar",
+    "Ideal para Campeonatos"
+  ],
+  "features": [
+    {
+      "title": "Controle de Sets",
+      "description": "Registre pontos e acompanhe os sets de cada partida com total controle. Veja o histórico de cada set ao longo do jogo.",
+      "icon": "📋"
+    },
+    {
+      "title": "Interface Intuitiva",
+      "description": "Design limpo e claro pensado para uso em quadra. Adicione e remova pontos com um único toque, mesmo sob pressão.",
+      "icon": "✨"
+    },
+    {
+      "title": "Histórico de Partidas",
+      "description": "Salve e consulte o histórico das partidas anteriores para acompanhar a evolução da sua equipe ao longo do tempo.",
+      "icon": "📈"
+    },
+    {
+      "title": "Modo Automático",
+      "description": "Configure a troca automática de sets e o encerramento da partida conforme as regras oficiais do vôlei.",
+      "icon": "⚡"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Rodrigo Mendes",
+      "rating": 5,
+      "comment": "App perfeito para controlar os jogos aqui na nossa escolinha. Simples, rápido e funcional!",
+      "role": "Treinador"
+    },
+    {
+      "name": "Camila Ramos",
+      "rating": 5,
+      "comment": "Uso em todos os campeonatos amadores da nossa cidade. Muito prático e fácil de usar em quadra.",
+      "role": "Árbitro"
+    },
+    {
+      "name": "Paulo Henrique",
+      "rating": 4,
+      "comment": "Muito bom! Facilita demais na hora de arbitrar. Interface clara e sem complicação.",
+      "role": "Jogador"
+    },
+    {
+      "name": "Juliana Ferreira",
+      "rating": 5,
+      "comment": "Finalmente um app de placar que funciona bem! Recomendo para todos os times amadores.",
+      "role": "Atleta"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "1. Informações Gerais",
+      "paragraphs": [
+        "A sua privacidade é de extrema importância para nós. Esta Política de Privacidade descreve como o aplicativo Placar de Vôlei, desenvolvido pela ClassA, coleta, usa e compartilha suas informações ao utilizar nossos serviços.",
+        "Ao utilizar nosso aplicativo, você concorda com a coleta e o uso de informações de acordo com esta política."
+      ]
+    },
+    {
+      "title": "2. Armazenamento Local de Dados",
+      "paragraphs": [
+        "Todos os placares e históricos de partidas são salvos exclusivamente no armazenamento interno do seu dispositivo.",
+        "Não enviamos seus dados de partidas ou jogos para servidores externos."
+      ]
+    },
+    {
+      "title": "3. Serviços de Terceiros",
+      "paragraphs": [
+        "O aplicativo integra o Google Play Services e pode exibir anúncios via AdMob, que podem coletar dados de forma anônima para personalização."
+      ]
+    },
+    {
+      "title": "4. Contato para Suporte",
+      "paragraphs": [
+        "Caso tenha dúvidas sobre esta política, entre em contato através do e-mail: suporte.classa@gmail.com."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "1. Aceitação dos Termos",
+      "paragraphs": [
+        "Ao baixar e utilizar o aplicativo Placar de Vôlei, você concorda com estes termos de uso.",
+        "Estes termos aplicam-se a todos os usuários que acessam ou usam o aplicativo."
+      ]
+    },
+    {
+      "title": "2. Licença de Uso",
+      "paragraphs": [
+        "Concedemos a você uma licença limitada, não-exclusiva e intransferível para utilizar o aplicativo para controle de placares de vôlei.",
+        "Você não pode descompilar, fazer engenharia reversa ou redistribuir o aplicativo."
+      ]
+    },
+    {
+      "title": "3. Limitação de Responsabilidade",
+      "paragraphs": [
+        "Em nenhum caso o desenvolvedor ou a ClassA serão responsáveis por quaisquer danos decorrentes do uso do aplicativo Placar de Vôlei."
+      ]
+    }
+  ],
+  "phoneScreenshot": "../assets/images/placarvolei/screenshot1.png",
+  "screenshots": [
+    "../assets/images/placarvolei/screenshot1.png",
+    "../assets/images/placarvolei/screenshot2.png"
+  ]
+}
