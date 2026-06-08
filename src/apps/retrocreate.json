@@ -1,0 +1,191 @@
+{
+  "id": "retrocreate",
+  "name": "Retro Create",
+  "tagline": "Transforme suas fotos em memórias vintage com molduras clássicas instantâneas!",
+  "description": "O Retro Create é o aplicativo definitivo para transformar suas fotos digitais em memórias nostálgicas com a clássica estética de câmera instantânea e analógica! Seja para eternizar momentos especiais, organizar um mural de fotos ou criar postagens incríveis para as suas redes sociais (Instagram, TikTok, Pinterest), o Retro Create oferece todas as ferramentas que você precisa para dar aquele toque vintage perfeito às suas fotografias.",
+  "category": "Fotografia",
+  "rating": "4.8",
+  "reviewsCount": "100+",
+  "icon": "../assets/images/retrocreate/icon.png",
+  "theme": {
+    "primary": "#8d6e63",
+    "secondary": "#ffb74d",
+    "dark": "#2d1f1c",
+    "light": "#efebe9"
+  },
+  "links": {
+    "playStore": "https://play.google.com/store/apps/details?id=com.classa.retrocreate",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Estética Analógica",
+    "Fácil de Personalizar",
+    "Alta Qualidade de Exportação"
+  ],
+  "features": [
+    {
+      "title": "Molduras Clássicas",
+      "description": "Escolha entre diversas opções de molduras icônicas, como o clássico branco instantâneo com borda grossa, formatos Wide e Quadrados.",
+      "icon": "🎨"
+    },
+    {
+      "title": "Tirinhas e Photo Booth",
+      "description": "Crie tirinhas de fotos no estilo cabine fotográfica com 3 ou 4 fotos, perfeitas para grids e murais.",
+      "icon": "📋"
+    },
+    {
+      "title": "Legendas Nostálgicas",
+      "description": "Adicione datas, textos e legendas personalizadas logo abaixo das suas fotos, exatamente como nas fotografias analógicas de antigamente.",
+      "icon": "✨"
+    },
+    {
+      "title": "Exportação em Alta Resolução",
+      "description": "Exporte e compartilhe suas criações em alta definição, perfeitas tanto para as redes sociais quanto para impressão física.",
+      "icon": "📲"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Carolina Martins",
+      "rating": 5,
+      "comment": "Eu amei o app! Ficou super fácil fazer fotos estilo instantâneo para colocar no meu perfil do Instagram. As fontes de texto antigas são lindas.",
+      "role": "Criadora de Conteúdo"
+    },
+    {
+      "name": "Felipe Albuquerque",
+      "rating": 5,
+      "comment": "Muito bom e simples de mexer. Dá para mudar as cores das bordas e a sombra das fotos, o que dá um efeito 3D muito realista.",
+      "role": "Entusiasta de Fotografia"
+    },
+    {
+      "name": "Mariana Costa",
+      "rating": 5,
+      "comment": "O aplicativo é maravilhoso! Estava procurando um jeito prático de fazer aquelas tirinhas de fotos de cabine para imprimir e esse app resolveu em segundos.",
+      "role": "Usuária Ativa"
+    },
+    {
+      "name": "Thiago Neves",
+      "rating": 4,
+      "comment": "Design muito bonito e prático. A exportação mantém a qualidade alta da foto original. Recomendo muito para quem gosta de fotos vintage.",
+      "role": "Designer Gráfico"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "Introdução",
+      "paragraphs": [
+        "A Class A Tecnologia desenvolveu o aplicativo Retro Create como um aplicativo Comercial/Freemium. Este SERVIÇO é fornecido por nós e destina-se ao uso no estado em que se encontra. Esta página é usada para informar os visitantes sobre nossas políticas com relação à coleta, uso e divulgação de Informações Pessoais de quem decide usar nosso Serviço. Ao usar nosso Serviço, você concorda com a coleta e o uso de informações em relação a esta política."
+      ]
+    },
+    {
+      "title": "1. Coleta e Uso de Informações",
+      "paragraphs": [
+        "Para uma melhor experiência durante o uso de nosso Serviço, podemos exigir que você nos forneça certas informações de identificação pessoal. As informações que solicitamos serão retidas em seu dispositivo ou em nossos servidores para o funcionamento do aplicativo e não são vendidas a terceiros.",
+        "• Câmera e Fotos: Utilizamos o acesso à câmera e à galeria de imagens do dispositivo para capturar, selecionar e editar fotografias essenciais para a aplicação de molduras retrô.",
+        "• Armazenamento e Arquivos: Solicitamos acesso ao armazenamento para salvar as criações finais no seu dispositivo, bem como exportar e compartilhar as imagens editadas.",
+        "• Autenticação de Usuário: Coletamos seu e-mail e nome básicos ao fazer login utilizando serviços de autenticação (Google Sign-In, Apple Sign-In ou E-mail/Senha)."
+      ]
+    },
+    {
+      "title": "2. Serviços de Terceiros",
+      "paragraphs": [
+        "O aplicativo utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo, rastrear o uso do aplicativo, fornecer suporte técnico e exibir anúncios.",
+        "• Google Play Services: https://policies.google.com/privacy",
+        "• Google AdMob: https://support.google.com/admob/answer/6128543",
+        "• Pangle (Mediação): https://www.pangleglobal.com/privacy",
+        "• Firebase Core, Auth, e Firestore: https://firebase.google.com/support/privacy",
+        "• Firebase Analytics e Crashlytics: https://firebase.google.com/support/privacy",
+        "• RevenueCat: https://www.revenuecat.com/privacy"
+      ]
+    },
+    {
+      "title": "3. Dados de Log e Analytics",
+      "paragraphs": [
+        "Sempre que você usar nosso Serviço, no caso de um erro no aplicativo, coletamos dados (Log Data) por meio do Firebase Crashlytics. Esses dados podem incluir IP, versão do SO e horário do erro."
+      ]
+    },
+    {
+      "title": "4. Assinaturas e Compras no Aplicativo",
+      "paragraphs": [
+        "O processamento de pagamentos é feito inteiramente pelas lojas de aplicativos oficiais (App Store e Google Play). O RevenueCat é usado apenas para verificar e conceder acesso aos recursos premium; nós não armazenamos dados de cartão de crédito."
+      ]
+    },
+    {
+      "title": "5. Segurança de Dados",
+      "paragraphs": [
+        "Valorizamos sua confiança, mas lembre-se de que nenhum método de armazenamento ou transmissão eletrônica é 100% seguro."
+      ]
+    },
+    {
+      "title": "6. Exclusão de Dados (Direito do Usuário)",
+      "paragraphs": [
+        "Você tem o direito de solicitar a exclusão de seus dados e conta diretamente nas configurações do aplicativo ou enviando um e-mail para o suporte. Os dados serão removidos em até 30 dias."
+      ]
+    },
+    {
+      "title": "7. Privacidade de Crianças",
+      "paragraphs": [
+        "Não coletamos intencionalmente informações de crianças menores de 13 anos. Se descobrirmos tal ocorrência, as informações serão excluídas."
+      ]
+    },
+    {
+      "title": "8. Alterações nesta Política",
+      "paragraphs": [
+        "Podemos atualizar esta política. Recomendamos revisá-la periodicamente."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "Introdução",
+      "paragraphs": [
+        "Bem-vindo ao Retro Create. Estes Termos de Uso regem o seu acesso e uso do aplicativo móvel fornecido pela Class A Tecnologia. Ao baixar ou usar o aplicativo, estes termos se aplicarão automaticamente a você – portanto, certifique-se de lê-los cuidadosamente antes de usar o aplicativo."
+      ]
+    },
+    {
+      "title": "1. Uso do Aplicativo",
+      "paragraphs": [
+        "Você tem permissão para baixar, instalar e usar o aplicativo estritamente para seus fins comerciais ou pessoais. Não é permitido copiar, modificar, extrair o código-fonte ou utilizá-lo para fins ilegais. Todos os direitos de propriedade intelectual pertencem à Class A Tecnologia."
+      ]
+    },
+    {
+      "title": "2. Planos, Assinaturas e Pagamentos (RevenueCat)",
+      "paragraphs": [
+        "Todas as transações financeiras são gerenciadas pelas lojas de aplicativos oficiais (Google Play Store e Apple App Store) utilizando a infraestrutura do RevenueCat. Nós não temos acesso e não armazenamos suas informações de cartão de crédito. As assinaturas são renovadas automaticamente, a menos que sejam canceladas com 24 horas de antecedência."
+      ]
+    },
+    {
+      "title": "3. Serviços de Terceiros",
+      "paragraphs": [
+        "O aplicativo utiliza serviços de terceiros (Google Play Services, AdMob, Firebase e Crashlytics) que possuem seus próprios Termos e Condições e Políticas de Privacidade."
+      ]
+    },
+    {
+      "title": "4. Isenção de Responsabilidade",
+      "paragraphs": [
+        "A Class A Tecnologia não garante que o serviço será ininterrupto ou livre de erros. As imagens geradas e exportadas pelo aplicativo são de inteira responsabilidade do usuário."
+      ]
+    },
+    {
+      "title": "5. Limitação de Responsabilidade",
+      "paragraphs": [
+        "A Class A Tecnologia não aceitará qualquer responsabilidade por qualquer perda resultante da confiança neste aplicativo, tampouco por perda de dados."
+      ]
+    },
+    {
+      "title": "6. Alterações nos Termos",
+      "paragraphs": [
+        "Podemos atualizar nossos Termos de Uso de tempos em tempos. Recomendamos que você revise esta página periodicamente."
+      ]
+    }
+  ],
+  "phoneScreenshot": "https://play-lh.googleusercontent.com/tEQzY_8bq66owtf0F_CZxPmGMmYDtTOpzG1_ASkFMZh8PTpAPJYdlVwG8vDF2ktVOqf3fPVzqBemx4EAkx4Ibw=w720-h1280",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/tEQzY_8bq66owtf0F_CZxPmGMmYDtTOpzG1_ASkFMZh8PTpAPJYdlVwG8vDF2ktVOqf3fPVzqBemx4EAkx4Ibw=w720-h1280",
+    "https://play-lh.googleusercontent.com/CWW_M9FQl_GPUMKi6c0kQagW2qMOcEZENhnxQEJOszHB1X3aLhyed2je5jPmhnd2PnTPIMSeRUgHTQWoq_RcEw=w720-h1280",
+    "https://play-lh.googleusercontent.com/iaLZGT432DgL617tSbfQRcDXCgSjm5-kqiY39hAudFalRbAZFrLPqiS1A2QKRioebqqnrUZSFwqswsoXOWYQ=w720-h1280",
+    "https://play-lh.googleusercontent.com/MCO6p_9JXY7Mnlu5aV5vzmKo-QTf0baKj5aTWo1na18CdS3wp7hEg1JwtF807fCxGRx917TW8wNroYU4cEzb_w=w720-h1280",
+    "https://play-lh.googleusercontent.com/ZReqO3juHYGg0lTx1fJXz5MarNmo-9v7A6uKigkKIk2lTG64ZUfVcaXznQvvO433rKiO7EA_IcRftNVTeRwc=w720-h1280"
+  ]
+}

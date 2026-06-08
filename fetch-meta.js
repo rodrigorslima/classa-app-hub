@@ -4,7 +4,8 @@ const path = require('path');
 
 const APPS = [
   { id: 'cartazpromocional', packageId: 'com.rslima.promotion_poster' },
-  { id: 'listapro', packageId: 'com.classa.lista_pro' }
+  { id: 'listapro', packageId: 'com.classa.lista_pro' },
+  { id: 'retrocreate', packageId: 'com.classa.retrocreate' }
 ];
 
 function fetchMetadata(app) {
@@ -12,7 +13,7 @@ function fetchMetadata(app) {
     const url = `https://play.google.com/store/apps/details?id=${app.packageId}&hl=pt_BR`;
     console.log(`🔍 Buscando dados da Play Store para o app: ${app.id} (${app.packageId})...`);
     
-    https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' } }, (res) => {
+    https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36' } }, (res) => {
       let html = '';
       res.on('data', chunk => html += chunk);
       res.on('end', () => {
@@ -29,7 +30,7 @@ function fetchMetadata(app) {
         while ((match = regex.exec(html)) !== null) {
           const fullUrl = match[0];
           // Google Play screenshots normalmente contêm parâmetros como =w526-h296 ou =w1052-h592 na URL
-          if (fullUrl.includes('=w') && !fullUrl.includes('=s') && !fullUrl.includes('-pd') && !fullUrl.includes('-pc') && !fullUrl.includes('-rw')) {
+          if (fullUrl.includes('=w') && !fullUrl.includes('=s') && !fullUrl.includes('-pd') && !fullUrl.includes('-pc')) {
             const baseUrl = fullUrl.split('=')[0];
             if (!baseUrls.includes(baseUrl)) {
               baseUrls.push(baseUrl);

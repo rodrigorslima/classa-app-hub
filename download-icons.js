@@ -11,6 +11,7 @@ const apps = [
   { id: 'sorteio',           iconUrl: 'https://play-lh.googleusercontent.com/lcto6sHod2bSfvqKg28R7qzSFyZpBydjJ6rJT5_wMTIkqas80_9jR3IJasbt7zNahgKs' },
   { id: 'tagproduto',        iconUrl: 'https://play-lh.googleusercontent.com/VmG6vvI2X4SICjQEdj1oFb6uF_zNkuhMAN6DL-RjdFzBSvqpDE8h0M2oPuS-hVqaC8I' },
   { id: 'vendi',             iconUrl: 'https://play-lh.googleusercontent.com/Cq1ooODikIv2QfsX7sTAsy-3Wy4KZB6iW4or7yKnnSSAEO9mwrsHOO1Pvbs3OSKi-bnXBJta0HXoEE5mSsuQ' },
+  { id: 'retrocreate',       iconUrl: 'https://play-lh.googleusercontent.com/UazfHpEXK3L4IHYxj4YMme3ZGtpwUeF-XRdUQWU_5FvMjadgmOGL9Iu5ae6UP9BIDI0IssgmLLzGe9D7nmyrJQ' }
 ];
 
 function downloadFile(url, destPath) {
