@@ -1,0 +1,197 @@
+{
+  "id": "saloncare",
+  "name": "Salon Care",
+  "tagline": "Agenda, ficha capilar e cronograma para o seu salão — com backup e sync no aparelho.",
+  "description": "O Salon Care organiza clientes, fichas capilares, agenda e cronogramas de tratamento. Os dados ficam no celular com total privacidade. Com o Premium, sincronize na nuvem, gere PDFs do cronograma e remova os anúncios. Fotos permanecem apenas no dispositivo.",
+  "category": "Beleza",
+  "rating": "5.0",
+  "reviewsCount": "Novo",
+  "icon": "../assets/images/saloncare/icon.png",
+  "theme": {
+    "primary": "#8B5E3C",
+    "secondary": "#C49A6C",
+    "dark": "#3E2723",
+    "light": "#F7F1EA"
+  },
+  "links": {
+    "playStore": "soon",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Ficha Capilar Completa",
+    "Agenda com Lembretes",
+    "Backup & Sync na Nuvem"
+  ],
+  "features": [
+    {
+      "title": "Clientes & Ficha Capilar",
+      "description": "Cadastre clientes com foto, telefone e ficha capilar detalhada. Acesse o histórico completo de tratamentos de cada cliente com um toque.",
+      "icon": "📋"
+    },
+    {
+      "title": "Agenda Inteligente",
+      "description": "Agende atendimentos com detecção de conflito de horário e receba lembretes locais antes de cada compromisso.",
+      "icon": "✨"
+    },
+    {
+      "title": "Cronograma Capilar",
+      "description": "Monte cronogramas personalizados (hidratação, nutrição, reconstrução) e compartilhe em PDF com suas clientes — recurso Premium.",
+      "icon": "📈"
+    },
+    {
+      "title": "Backup & Privacidade",
+      "description": "Exporte backup ZIP com todas as fotos e restaure quando quiser. Dados estruturados sincronizam na nuvem via Firebase no Premium.",
+      "icon": "⚡"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Ana Lúcia",
+      "rating": 5,
+      "comment": "Finalmente um app que entende o salão! Ficha capilar, agenda e cronograma tudo em um lugar. Minhas clientes adoram receber o PDF do tratamento.",
+      "role": "Cabeleireira"
+    },
+    {
+      "name": "Camila Freitas",
+      "rating": 5,
+      "comment": "Uso todo dia para agendar minhas clientes. O alerta de conflito de horário me salvou várias vezes. Simples e muito eficiente!",
+      "role": "Usuária Ativa"
+    },
+    {
+      "name": "Patrícia Souza",
+      "rating": 5,
+      "comment": "O cronograma capilar em PDF é incrível! Minhas clientes ficam impressionadas com o profissionalismo. App nota 10!",
+      "role": "Proprietária de Salão"
+    },
+    {
+      "name": "Juliana Matos",
+      "rating": 5,
+      "comment": "App completo e fácil de usar. Gosto que os dados ficam no meu celular com segurança. O backup ZIP é ótimo para não perder nada.",
+      "role": "Usuária Verificada"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "Introdução",
+      "paragraphs": [
+        "A Class A Tecnologia desenvolveu o aplicativo Salon Care para gestão de clientes, ficha capilar e agenda de salão.",
+        "Esta Política de Privacidade esclarece como suas informações são tratadas ao utilizar o aplicativo."
+      ]
+    },
+    {
+      "title": "1. Armazenamento Local e Dados Tratados",
+      "paragraphs": [
+        "Os dados do Salon Care ficam primeiro no seu aparelho. Você pode cadastrar, a seu critério: nome, telefone e foto de clientes; ficha capilar e observações; atendimentos e cronogramas de tratamento; nome e foto do perfil do salão.",
+        "Não há login com e-mail ou redes sociais. Seus dados profissionais não são vendidos a terceiros."
+      ]
+    },
+    {
+      "title": "2. Nuvem (Firebase) — Premium",
+      "paragraphs": [
+        "Assinantes Premium podem sincronizar dados estruturados com o Firebase usando uma conta anônima vinculada ao dispositivo (sem e-mail/senha). Fotos não sobem à nuvem.",
+        "A restauração da nuvem (Configurações → Nuvem) substitui os dados locais. Trocar de celular não recupera automaticamente a mesma conta anônima; use backup ZIP ou restauração consciente."
+      ]
+    },
+    {
+      "title": "3. Permissões do Aplicativo",
+      "paragraphs": [
+        "• Câmera e fotos: somente quando você adiciona uma imagem. Fotos não sobem à nuvem.",
+        "• Notificações: lembretes locais de atendimento (sem push remoto).",
+        "• Internet: sync Firestore (Premium), anúncios AdMob (versão gratuita) e compras in-app."
+      ]
+    },
+    {
+      "title": "4. Backup e Exportação",
+      "paragraphs": [
+        "Recomendamos exportar backup ZIP periodicamente em Configurações (inclui fotos). A restauração do arquivo substitui os dados atuais do aparelho.",
+        "O app pode abrir o compartilhamento do sistema para PDF do cronograma (Premium) ou arquivo de backup. O destino é escolhido por você."
+      ]
+    },
+    {
+      "title": "5. Anúncios",
+      "paragraphs": [
+        "O app pode exibir anúncios via Google AdMob na versão gratuita. Assinantes Premium não veem anúncios. Em regiões que exigem, pedimos consentimento (UMP) antes de anúncios personalizados."
+      ]
+    },
+    {
+      "title": "6. Compras e Assinaturas (Premium)",
+      "paragraphs": [
+        "Assinaturas e restauração de compras passam pela Apple ou Google, com status gerenciado via RevenueCat. O entitlement Premium controla anúncios, nuvem e compartilhamento de PDF.",
+        "Dados de cartão não são processados pelo Salon Care nem enviados ao Firebase."
+      ]
+    },
+    {
+      "title": "7. Responsabilidade sobre Dados de Clientes",
+      "paragraphs": [
+        "Você é responsável por obter o consentimento adequado das suas clientes para armazenar dados e imagens, inclusive sob a LGPD quando aplicável."
+      ]
+    },
+    {
+      "title": "8. Contato e Exclusão de Dados",
+      "paragraphs": [
+        "Você pode excluir todos os seus dados limpando o armazenamento do aplicativo no dispositivo. Para suporte ou solicitações de exclusão, entre em contato: suporte.classa@gmail.com."
+      ]
+    },
+    {
+      "title": "9. Alterações nesta Política",
+      "paragraphs": [
+        "Esta política pode ser atualizada periodicamente. A versão mais recente estará sempre disponível nesta página."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "Introdução",
+      "paragraphs": [
+        "Estes Termos de Uso regem a utilização do aplicativo móvel Salon Care, desenvolvido e mantido pela Class A Tecnologia.",
+        "Ao instalar e utilizar o aplicativo, você concorda inteiramente com estes termos."
+      ]
+    },
+    {
+      "title": "1. Licença de Uso",
+      "paragraphs": [
+        "Concedemos a você uma licença pessoal, revogável, não exclusiva e intransferível para utilizar o aplicativo em dispositivos móveis compatíveis.",
+        "É proibida a reprodução, modificação, engenharia reversa, redistribuição ou comercialização não autorizada do aplicativo ou de suas partes."
+      ]
+    },
+    {
+      "title": "2. Responsabilidade sobre os Dados",
+      "paragraphs": [
+        "O Salon Care é uma ferramenta de gestão profissional para salões. Você é responsável pela precisão dos dados inseridos e pelo consentimento adequado de suas clientes para armazenamento de dados e imagens.",
+        "A responsabilidade por decisões tomadas com base nas informações do aplicativo é inteiramente do usuário."
+      ]
+    },
+    {
+      "title": "3. Assinaturas e Pagamentos (Premium)",
+      "paragraphs": [
+        "Todas as transações financeiras são gerenciadas pelas lojas de aplicativos oficiais (Google Play Store e Apple App Store) utilizando a infraestrutura do RevenueCat.",
+        "Nós não temos acesso e não armazenamos suas informações de cartão de crédito. As assinaturas são renovadas automaticamente, a menos que sejam canceladas com 24 horas de antecedência."
+      ]
+    },
+    {
+      "title": "4. Serviços de Terceiros",
+      "paragraphs": [
+        "O aplicativo utiliza serviços de terceiros (Google Play Services, AdMob, Firebase, Crashlytics e RevenueCat) que possuem seus próprios Termos e Condições e Políticas de Privacidade."
+      ]
+    },
+    {
+      "title": "5. Isenção de Responsabilidade",
+      "paragraphs": [
+        "A Class A Tecnologia não garante que o serviço será ininterrupto ou livre de erros. Os arquivos gerados (PDFs, backups ZIP) são de inteira responsabilidade do usuário."
+      ]
+    },
+    {
+      "title": "6. Alterações nos Termos",
+      "paragraphs": [
+        "Reservamo-nos o direito de alterar estes termos a qualquer momento. O uso continuado do aplicativo após as alterações constitui aceitação dos novos termos."
+      ]
+    }
+  ],
+  "phoneScreenshot": "../assets/images/saloncare/screenshot1.png",
+  "screenshots": [
+    "../assets/images/saloncare/screenshot1.png",
+    "../assets/images/saloncare/screenshot2.png",
+    "../assets/images/saloncare/screenshot3.png"
+  ]
+}
