@@ -98,7 +98,17 @@ function build() {
 
     // Gerar badges de download
     let badgesHtml = '';
-    if (app.links.playStore) {
+    if (app.links.playStore === 'soon') {
+      badgesHtml += `
+      <div class="badge-btn badge-btn-soon" title="Em breve no Google Play">
+        ${SVG_PLAYSTORE}
+        <div class="badge-btn-text">
+          <span class="subtext">Em breve no</span>
+          <span class="maintext">Google Play</span>
+        </div>
+        <span class="badge-soon-chip">Em breve</span>
+      </div>`;
+    } else if (app.links.playStore) {
       badgesHtml += `
       <a href="${app.links.playStore}" target="_blank" rel="noopener" class="badge-btn">
         ${SVG_PLAYSTORE}

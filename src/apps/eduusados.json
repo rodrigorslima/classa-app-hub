@@ -1,0 +1,146 @@
+{
+  "id": "eduusados",
+  "name": "É Du Usados",
+  "tagline": "Marketplace de maquinários agrícolas usados — com intermediação segura!",
+  "description": "O É Du Usados conecta quem busca e quem anuncia maquinários agrícolas usados. Veja fotos, localização, equipamento e horímetro no catálogo público. Nome, CPF/CNPJ, telefone e e-mail do anunciante ficam sob guarda da plataforma: o contato é intermediado pela equipe, com mais privacidade e segurança para as duas partes.",
+  "category": "Negócios",
+  "rating": "5.0",
+  "reviewsCount": "Novo",
+  "icon": "../assets/images/eduusados/icon.png",
+  "theme": {
+    "primary": "#8F4E28",
+    "secondary": "#D08A52",
+    "dark": "#121110",
+    "light": "#F0EFED"
+  },
+  "links": {
+    "playStore": "soon",
+    "appStore": "soon",
+    "webApp": ""
+  },
+  "bullets": [
+    "Catálogo de Maquinários",
+    "Intermediação Segura",
+    "Privacidade do Anunciante"
+  ],
+  "features": [
+    {
+      "title": "Catálogo Público",
+      "description": "Navegue por colheitadeiras, plantadeiras, tratores, pulverizadores e implementos com fotos, preço, ano, horímetro e localização por cidade/UF.",
+      "icon": "🛒"
+    },
+    {
+      "title": "Intermediação Profissional",
+      "description": "Demonstre interesse com login e deixe a equipe É Du Usados conectar você ao anunciante — sem expor dados sensíveis no anúncio público.",
+      "icon": "📲"
+    },
+    {
+      "title": "Anuncie com Análise",
+      "description": "Cadastre equipamentos com fotos e detalhes. Anúncios passam por aprovação antes de ir ao ar. O primeiro anúncio é gratuito; extras via plano mensal.",
+      "icon": "📋"
+    },
+    {
+      "title": "Privacidade em Primeiro Lugar",
+      "description": "CPF/CNPJ, telefone e e-mail do anunciante ficam só com a plataforma. No catálogo aparecem apenas dados do equipamento e localização aproximada.",
+      "icon": "✨"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "João Batista",
+      "rating": 5,
+      "comment": "Finalmente um app focado em maquinário agrícola usado. Achei uma colheitadeira na minha região e o contato foi rápido e organizado.",
+      "role": "Produtor Rural"
+    },
+    {
+      "name": "Marina Ferreira",
+      "rating": 5,
+      "comment": "Anunciei meu trator com fotos e horímetro. A aprovação foi clara e me sinto mais segura sabendo que meus dados pessoais não ficam públicos.",
+      "role": "Anunciante"
+    },
+    {
+      "name": "Carlos Eduardo",
+      "rating": 5,
+      "comment": "Interface limpa e fácil de usar. O filtro por categoria e localização ajuda muito na busca. Recomendo para quem compra e vende implementos.",
+      "role": "Comprador"
+    },
+    {
+      "name": "Patrícia Souza",
+      "rating": 5,
+      "comment": "A intermediação faz diferença. Prefiro negociar com suporte da plataforma do que trocar telefone direto no anúncio.",
+      "role": "Produtora"
+    }
+  ],
+  "privacyPolicy": [
+    {
+      "title": "1. Informações Gerais",
+      "paragraphs": [
+        "A sua privacidade é de extrema importância para nós. Esta Política de Privacidade descreve como o aplicativo É Du Usados coleta, usa e compartilha suas informações ao utilizar nossos serviços.",
+        "Ao utilizar nosso aplicativo, você concorda com a coleta e o uso de informações de acordo com esta política."
+      ]
+    },
+    {
+      "title": "2. Dados Coletados",
+      "paragraphs": [
+        "Para operar o marketplace com intermediação, podemos coletar: dados de conta (e-mail e senha via autenticação), perfil (nome, CPF ou CNPJ, telefone, endereço e tipo de perfil — cliente ou anunciante), conteúdo de anúncios (fotos, descrição do equipamento, preço, horímetro e localização) e pedidos de interesse enviados por compradores.",
+        "No anúncio público são exibidos apenas dados do equipamento e localização aproximada (cidade/UF). Dados pessoais de contato do anunciante e do interessado ficam sob guarda da plataforma para a intermediação."
+      ]
+    },
+    {
+      "title": "3. Armazenamento e Serviços de Terceiros",
+      "paragraphs": [
+        "Os dados são processados com Firebase (Authentication, Cloud Firestore, Cloud Storage, Analytics e Crashlytics) para autenticação, persistência, fotos, telemetria e estabilidade do serviço.",
+        "Assinaturas in-app para anúncios extras podem ser processadas via RevenueCat e as lojas oficiais (Google Play / App Store), que tratam informações de cobrança conforme as políticas respectivas."
+      ]
+    },
+    {
+      "title": "4. Uso das Informações",
+      "paragraphs": [
+        "Utilizamos os dados para fornecer o catálogo, analisar e publicar anúncios, intermediar contatos entre interessados e anunciantes, gerenciar cotas e assinaturas, melhorar o produto e garantir a segurança da plataforma.",
+        "Não vendemos seus dados pessoais. O compartilhamento ocorre apenas o necessário para a intermediação, operação técnica do serviço ou cumprimento de obrigação legal."
+      ]
+    },
+    {
+      "title": "5. Contato para Suporte",
+      "paragraphs": [
+        "Caso tenha dúvidas sobre esta política ou queira exercer direitos relacionados aos seus dados, entre em contato através do e-mail: suporte.classa@gmail.com."
+      ]
+    }
+  ],
+  "termsOfUse": [
+    {
+      "title": "1. Objeto e Aceite",
+      "paragraphs": [
+        "A É Du Usados disponibiliza uma plataforma digital de divulgação e intermediação de maquinários agrícolas usados. O anunciante publica equipamentos; interessados enviam pedidos de contato; a equipe realiza a intermediação entre as partes.",
+        "Ao concluir o cadastro e/ou publicar um anúncio, você declara ter lido e aceito estes Termos de Uso na versão vigente."
+      ]
+    },
+    {
+      "title": "2. Cadastro, Veracidade e Intermediação",
+      "paragraphs": [
+        "O anunciante compromete-se a fornecer dados verdadeiros (incluindo CPF ou CNPJ e endereço, quando exigidos) e informações fiéis sobre o equipamento (categoria, modelo, ano, horímetro, preço, fotos e observações). Anúncios passam por análise antes da publicação.",
+        "O contato entre interessado e anunciante é intermediado pela É Du Usados. A plataforma não é parte do contrato de compra e venda do equipamento, salvo disposição expressa em contrário."
+      ]
+    },
+    {
+      "title": "3. Comissão e Assinatura",
+      "paragraphs": [
+        "Em caso de venda intermediada pela É Du Usados, a comissão devida é de 3% sobre o valor da venda para Colheitadeira, Plantadeira, Trator e Pulverizador, e de 5% nos demais implementos.",
+        "O plano mensal para anúncios extras é independente da comissão. O primeiro anúncio pode ser gratuito conforme a política vigente de cotas; anúncios adicionais podem exigir assinatura ativa."
+      ]
+    },
+    {
+      "title": "4. Conduta e Limitação de Responsabilidade",
+      "paragraphs": [
+        "É vedado anunciar equipamentos ilícitos, com informações fraudulentas ou que violem direitos de terceiros. A É Du Usados pode recusar, pausar ou remover anúncios que descumpram estes Termos.",
+        "A plataforma envida esforços razoáveis na intermediação, mas não garante resultado de venda, estado mecânico do equipamento nem cumprimento de obrigações entre anunciante e comprador. Em caso de dúvida, entre em contato pelos canais oficiais ou pelo e-mail suporte.classa@gmail.com."
+      ]
+    }
+  ],
+  "phoneScreenshot": "../assets/images/eduusados/screenshot1.jpg",
+  "screenshots": [
+    "../assets/images/eduusados/screenshot1.jpg",
+    "../assets/images/eduusados/screenshot2.jpg",
+    "../assets/images/eduusados/screenshot3.jpg"
+  ]
+}
